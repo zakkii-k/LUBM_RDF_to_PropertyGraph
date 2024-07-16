@@ -7,7 +7,7 @@ import argparse
 
 
 def main():
-    # コマンドライン引数の設定
+    # Setting command line arguments
     parser = argparse.ArgumentParser(description="RDF to Property Graph Converter")
     parser.add_argument("-o", "--owl_file", required=True, help="Path to the OWL file")
     parser.add_argument(
@@ -28,23 +28,23 @@ def main():
     )
     args = parser.parse_args()
 
-    # ファイルパスの設定
+    # Setting file paths
     owl_file = args.owl_file
     ntriples_dir = args.ntriples_dir
     json_dir_path = args.json_dir_path
 
-    # OWLグラフの読み込み
+    # Loading OWL graph
     owl_graph = rdflib.Graph()
     owl_graph.parse(owl_file, format="xml")
 
-    # RDFグラフの読み込み
+    # Loading RDF graph
     g = rdflib.Graph()
 
     print("===== reading ntriples files =====")
     for file in tqdm.tqdm(glob.glob(ntriples_dir)):
         g.parse(file, format="nt")
 
-    # クラス情報の抽出
+    # Extracting class information
     class_labels = {}
     dataTypeProperty = {}
     objectProperty = {}
@@ -68,10 +68,10 @@ def main():
         else:
             print("subj:", subj, "pred:", pred, "obj:", obj)
 
-    # property graph用のmap
+    # Maps for property graph
     node_map = {}
     edge_map = {}
-    # データとidの
+    # Data and id maps
     node_id_map = {}
     edge_id_map = {}
     next_node_id = 1
@@ -92,7 +92,7 @@ def main():
             continue
         sub_id = -1
         obj_id = -1
-        if subj not in node_id_map:  # subjが初めての時．
+        if subj not in node_id_map:  # When subj appears for the first time
             node_id_map[subj] = next_node_id
             node_map[next_node_id] = {"id": next_node_id, "property": {"uri": subj}}
             sub_id = next_node_id
@@ -100,8 +100,8 @@ def main():
         else:
             sub_id = node_id_map[subj]
 
-        if pred in objectProperty:  # predがproperty graphのエッジの役割の時．
-            if obj not in node_id_map:  # objが初出の時．
+        if pred in objectProperty:  # When pred acts as an edge in the property graph
+            if obj not in node_id_map:  # When obj appears for the first time
                 node_id_map[obj] = next_node_id
                 node_map[next_node_id] = {"id": next_node_id, "property": {"uri": obj}}
                 obj_id = next_node_id
@@ -120,7 +120,7 @@ def main():
                 }
                 next_edge_id += 1
 
-        elif pred in dataTypeProperty:  # プロパティ．
+        elif pred in dataTypeProperty:  # Property
             node_map[sub_id]["property"][dataTypeProperty[pred]] = obj
         elif "type" in str(pred):
             if "label" in node_map[sub_id]:
@@ -130,14 +130,14 @@ def main():
         else:
             print("sub:", subj, "pred:", pred, "obj:", obj)
 
-    # ディレクトリが存在しない場合は作成
+    # Create directory if it does not exist
     if not os.path.exists(json_dir_path):
         os.makedirs(json_dir_path)
 
-    # node_mapをリスト形式に変換
+    # Convert node_map to list format
     node_list = list(node_map.values())
 
-    # edge_mapをリスト形式に変換
+    # Convert edge_map to list format
     edge_list = list(edge_map.values())
 
     def write_json_in_chunks(data, file_prefix, dir_path, chunk_size=10000):
@@ -151,10 +151,10 @@ def main():
                 json.dump(chunk, file, ensure_ascii=False, indent=4)
 
     print("===== writing json files =====")
-    # node_listを分割してjson形式で出力
+    # Split node_list and output in json format
     write_json_in_chunks(node_list, "nodes", json_dir_path)
 
-    # edge_listを分割してjson形式で出力
+    # Split edge_list and output in json format
     write_json_in_chunks(edge_list, "edges", json_dir_path)
 
 
