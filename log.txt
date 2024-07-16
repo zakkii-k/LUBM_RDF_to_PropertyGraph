@@ -1,0 +1,4836 @@
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_0.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 271 271
+Department 1 1
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 10
+AssociateProfessor 14 14
+AssistantProfessor 10 10
+Lecturer 7 7
+Student 0 0
+UndergraduateStudent 532 532
+GraduateStudent 146 146
+TeachingAssistant 29 29
+ResearchAssistant 39 39
+Course 61 61
+GraduateCourse 67 67
+Publication 460 460
+Chair 0 0
+Research 0 0
+ResearchGroup 10 10
+
+TOTAL: 1657
+TOTAL SO FAR: 1657
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1309 1309
+takesCourse 1878 1878
+teacherOf 128 128
+undergraduateDegreeFrom 187 187
+mastersDegreeFrom 41 41
+doctoralDegreeFrom 41 41
+advisor 255 255
+memberOf 678 678
+publicationAuthor 825 825
+headOf 1 1
+teachingAssistantOf 29 29
+researchInterest 34 34
+emailAddress 719 719
+telephone 719 719
+subOrganizationOf 11 11
+worksFor 41 41
+
+TOTAL: 6896
+TOTAL SO FAR: 6896
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_1.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 213 484
+Department 1 2
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 20
+AssociateProfessor 10 24
+AssistantProfessor 8 18
+Lecturer 6 13
+Student 0 0
+UndergraduateStudent 411 943
+GraduateStudent 110 256
+TeachingAssistant 27 56
+ResearchAssistant 35 74
+Course 48 109
+GraduateCourse 46 113
+Publication 383 843
+Chair 0 0
+Research 0 0
+ResearchGroup 19 29
+
+TOTAL: 1327
+TOTAL SO FAR: 2984
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1033 2342
+takesCourse 1434 3312
+teacherOf 94 222
+undergraduateDegreeFrom 144 331
+mastersDegreeFrom 34 75
+doctoralDegreeFrom 34 75
+advisor 202 457
+memberOf 521 1199
+publicationAuthor 648 1473
+headOf 1 2
+teachingAssistantOf 27 56
+researchInterest 28 62
+emailAddress 555 1274
+telephone 555 1274
+subOrganizationOf 20 31
+worksFor 34 75
+
+TOTAL: 5364
+TOTAL SO FAR: 12260
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_2.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 210 694
+Department 1 3
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 27
+AssociateProfessor 12 36
+AssistantProfessor 8 26
+Lecturer 7 20
+Student 0 0
+UndergraduateStudent 376 1319
+GraduateStudent 107 363
+TeachingAssistant 23 79
+ResearchAssistant 34 108
+Course 49 158
+GraduateCourse 47 160
+Publication 381 1224
+Chair 0 0
+Research 0 0
+ResearchGroup 13 42
+
+TOTAL: 1275
+TOTAL SO FAR: 4259
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 995 3337
+takesCourse 1332 4644
+teacherOf 96 318
+undergraduateDegreeFrom 141 472
+mastersDegreeFrom 34 109
+doctoralDegreeFrom 34 109
+advisor 186 643
+memberOf 483 1682
+publicationAuthor 651 2124
+headOf 1 3
+teachingAssistantOf 23 79
+researchInterest 27 89
+emailAddress 517 1791
+telephone 517 1791
+subOrganizationOf 14 45
+worksFor 34 109
+
+TOTAL: 5085
+TOTAL SO FAR: 17345
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_3.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 232 926
+Department 1 4
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 36
+AssociateProfessor 12 48
+AssistantProfessor 10 36
+Lecturer 6 26
+Student 0 0
+UndergraduateStudent 340 1659
+GraduateStudent 120 483
+TeachingAssistant 25 104
+ResearchAssistant 37 145
+Course 55 213
+GraduateCourse 58 218
+Publication 430 1654
+Chair 0 0
+Research 0 0
+ResearchGroup 18 60
+
+TOTAL: 1353
+TOTAL SO FAR: 5612
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1041 4378
+takesCourse 1262 5906
+teacherOf 113 431
+undergraduateDegreeFrom 157 629
+mastersDegreeFrom 37 146
+doctoralDegreeFrom 37 146
+advisor 196 839
+memberOf 460 2142
+publicationAuthor 742 2866
+headOf 1 4
+teachingAssistantOf 25 104
+researchInterest 31 120
+emailAddress 497 2288
+telephone 497 2288
+subOrganizationOf 19 64
+worksFor 37 146
+
+TOTAL: 5152
+TOTAL SO FAR: 22497
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_4.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 239 1165
+Department 1 5
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 43
+AssociateProfessor 10 58
+AssistantProfessor 10 46
+Lecturer 7 33
+Student 0 0
+UndergraduateStudent 408 2067
+GraduateStudent 136 619
+TeachingAssistant 29 133
+ResearchAssistant 44 189
+Course 51 264
+GraduateCourse 51 269
+Publication 348 2002
+Chair 0 0
+Research 0 0
+ResearchGroup 20 80
+
+TOTAL: 1361
+TOTAL SO FAR: 6973
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1029 5407
+takesCourse 1487 7393
+teacherOf 102 533
+undergraduateDegreeFrom 170 799
+mastersDegreeFrom 34 180
+doctoralDegreeFrom 34 180
+advisor 207 1046
+memberOf 544 2686
+publicationAuthor 667 3533
+headOf 1 5
+teachingAssistantOf 29 133
+researchInterest 27 147
+emailAddress 578 2866
+telephone 578 2866
+subOrganizationOf 21 85
+worksFor 34 180
+
+TOTAL: 5542
+TOTAL SO FAR: 28039
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_5.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 216 1381
+Department 1 6
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 53
+AssociateProfessor 11 69
+AssistantProfessor 8 54
+Lecturer 6 39
+Student 0 0
+UndergraduateStudent 444 2511
+GraduateStudent 110 729
+TeachingAssistant 26 159
+ResearchAssistant 31 220
+Course 57 321
+GraduateCourse 50 319
+Publication 410 2412
+Chair 0 0
+Research 0 0
+ResearchGroup 14 94
+
+TOTAL: 1394
+TOTAL SO FAR: 8367
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1107 6514
+takesCourse 1561 8954
+teacherOf 107 640
+undergraduateDegreeFrom 145 944
+mastersDegreeFrom 35 215
+doctoralDegreeFrom 35 215
+advisor 195 1241
+memberOf 554 3240
+publicationAuthor 694 4227
+headOf 1 6
+teachingAssistantOf 26 159
+researchInterest 29 176
+emailAddress 589 3455
+telephone 589 3455
+subOrganizationOf 15 100
+worksFor 35 215
+
+TOTAL: 5717
+TOTAL SO FAR: 33756
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_6.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 209 1590
+Department 1 7
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 63
+AssociateProfessor 10 79
+AssistantProfessor 8 62
+Lecturer 6 45
+Student 0 0
+UndergraduateStudent 299 2810
+GraduateStudent 106 835
+TeachingAssistant 26 185
+ResearchAssistant 26 246
+Course 56 377
+GraduateCourse 48 367
+Publication 381 2793
+Chair 0 0
+Research 0 0
+ResearchGroup 16 110
+
+TOTAL: 1202
+TOTAL SO FAR: 9569
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 925 7439
+takesCourse 1149 10103
+teacherOf 104 744
+undergraduateDegreeFrom 140 1084
+mastersDegreeFrom 34 249
+doctoralDegreeFrom 34 249
+advisor 161 1402
+memberOf 405 3645
+publicationAuthor 657 4884
+headOf 1 7
+teachingAssistantOf 26 185
+researchInterest 28 204
+emailAddress 439 3894
+telephone 439 3894
+subOrganizationOf 17 117
+worksFor 34 249
+
+TOTAL: 4593
+TOTAL SO FAR: 38349
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_7.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 239 1829
+Department 1 8
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 70
+AssociateProfessor 14 93
+AssistantProfessor 10 72
+Lecturer 6 51
+Student 0 0
+UndergraduateStudent 454 3264
+GraduateStudent 127 962
+TeachingAssistant 25 210
+ResearchAssistant 32 278
+Course 63 440
+GraduateCourse 58 425
+Publication 417 3210
+Chair 0 0
+Research 0 0
+ResearchGroup 20 130
+
+TOTAL: 1473
+TOTAL SO FAR: 11042
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1157 8596
+takesCourse 1594 11697
+teacherOf 121 865
+undergraduateDegreeFrom 164 1248
+mastersDegreeFrom 37 286
+doctoralDegreeFrom 37 286
+advisor 230 1632
+memberOf 581 4226
+publicationAuthor 738 5622
+headOf 1 8
+teachingAssistantOf 25 210
+researchInterest 31 235
+emailAddress 618 4512
+telephone 618 4512
+subOrganizationOf 21 138
+worksFor 37 286
+
+TOTAL: 6010
+TOTAL SO FAR: 44359
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_8.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 255 2084
+Department 1 9
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 79
+AssociateProfessor 11 104
+AssistantProfessor 11 83
+Lecturer 6 57
+Student 0 0
+UndergraduateStudent 436 3700
+GraduateStudent 143 1105
+TeachingAssistant 34 244
+ResearchAssistant 47 325
+Course 62 502
+GraduateCourse 51 476
+Publication 422 3632
+Chair 0 0
+Research 0 0
+ResearchGroup 18 148
+
+TOTAL: 1506
+TOTAL SO FAR: 12548
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1152 9748
+takesCourse 1565 13262
+teacherOf 113 978
+undergraduateDegreeFrom 180 1428
+mastersDegreeFrom 37 323
+doctoralDegreeFrom 37 323
+advisor 234 1866
+memberOf 579 4805
+publicationAuthor 787 6409
+headOf 1 9
+teachingAssistantOf 34 244
+researchInterest 31 266
+emailAddress 616 5128
+telephone 616 5128
+subOrganizationOf 19 157
+worksFor 37 323
+
+TOTAL: 6038
+TOTAL SO FAR: 50397
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_9.owl
+---------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 218 2302
+Department 1 10
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 86
+AssociateProfessor 10 114
+AssistantProfessor 11 94
+Lecturer 7 64
+Student 0 0
+UndergraduateStudent 322 4022
+GraduateStudent 112 1217
+TeachingAssistant 24 268
+ResearchAssistant 32 357
+Course 48 550
+GraduateCourse 58 534
+Publication 355 3987
+Chair 0 0
+Research 0 0
+ResearchGroup 12 160
+
+TOTAL: 1217
+TOTAL SO FAR: 13765
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 931 10679
+takesCourse 1211 14473
+teacherOf 106 1084
+undergraduateDegreeFrom 147 1575
+mastersDegreeFrom 35 358
+doctoralDegreeFrom 35 358
+advisor 194 2060
+memberOf 434 5239
+publicationAuthor 611 7020
+headOf 1 10
+teachingAssistantOf 24 268
+researchInterest 28 294
+emailAddress 469 5597
+telephone 469 5597
+subOrganizationOf 13 170
+worksFor 35 358
+
+TOTAL: 4743
+TOTAL SO FAR: 55140
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_10.owl
+----------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 247 2549
+Department 1 11
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 93
+AssociateProfessor 11 125
+AssistantProfessor 11 105
+Lecturer 7 71
+Student 0 0
+UndergraduateStudent 411 4433
+GraduateStudent 138 1355
+TeachingAssistant 31 299
+ResearchAssistant 46 403
+Course 57 607
+GraduateCourse 48 582
+Publication 400 4387
+Chair 0 0
+Research 0 0
+ResearchGroup 15 175
+
+TOTAL: 1430
+TOTAL SO FAR: 15195
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1091 11770
+takesCourse 1484 15957
+teacherOf 105 1189
+undergraduateDegreeFrom 174 1749
+mastersDegreeFrom 36 394
+doctoralDegreeFrom 36 394
+advisor 225 2285
+memberOf 549 5788
+publicationAuthor 736 7756
+headOf 1 11
+teachingAssistantOf 31 299
+researchInterest 29 323
+emailAddress 585 6182
+telephone 585 6182
+subOrganizationOf 16 186
+worksFor 36 394
+
+TOTAL: 5719
+TOTAL SO FAR: 60859
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_11.owl
+----------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 266 2815
+Department 1 12
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 101
+AssociateProfessor 14 139
+AssistantProfessor 11 116
+Lecturer 6 77
+Student 0 0
+UndergraduateStudent 382 4815
+GraduateStudent 148 1503
+TeachingAssistant 29 328
+ResearchAssistant 45 448
+Course 59 666
+GraduateCourse 60 642
+Publication 443 4830
+Chair 0 0
+Research 0 0
+ResearchGroup 13 188
+
+TOTAL: 1485
+TOTAL SO FAR: 16680
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1132 12902
+takesCourse 1446 17403
+teacherOf 119 1308
+undergraduateDegreeFrom 187 1936
+mastersDegreeFrom 39 433
+doctoralDegreeFrom 39 433
+advisor 229 2514
+memberOf 530 6318
+publicationAuthor 773 8529
+headOf 1 12
+teachingAssistantOf 29 328
+researchInterest 33 356
+emailAddress 569 6751
+telephone 569 6751
+subOrganizationOf 14 200
+worksFor 39 433
+
+TOTAL: 5748
+TOTAL SO FAR: 66607
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_12.owl
+----------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 226 3041
+Department 1 13
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 110
+AssociateProfessor 11 150
+AssistantProfessor 11 127
+Lecturer 5 82
+Student 0 0
+UndergraduateStudent 359 5174
+GraduateStudent 117 1620
+TeachingAssistant 27 355
+ResearchAssistant 34 482
+Course 56 722
+GraduateCourse 53 695
+Publication 397 5227
+Chair 0 0
+Research 0 0
+ResearchGroup 11 199
+
+TOTAL: 1317
+TOTAL SO FAR: 17997
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1019 13921
+takesCourse 1330 18733
+teacherOf 109 1417
+undergraduateDegreeFrom 153 2089
+mastersDegreeFrom 36 469
+doctoralDegreeFrom 36 469
+advisor 184 2698
+memberOf 476 6794
+publicationAuthor 664 9193
+headOf 1 13
+teachingAssistantOf 27 355
+researchInterest 31 387
+emailAddress 512 7263
+telephone 512 7263
+subOrganizationOf 12 212
+worksFor 36 469
+
+TOTAL: 5138
+TOTAL SO FAR: 71745
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_13.owl
+----------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 258 3299
+Department 1 14
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 118
+AssociateProfessor 14 164
+AssistantProfessor 11 138
+Lecturer 5 87
+Student 0 0
+UndergraduateStudent 477 5651
+GraduateStudent 143 1763
+TeachingAssistant 30 385
+ResearchAssistant 35 517
+Course 55 777
+GraduateCourse 58 753
+Publication 407 5634
+Chair 0 0
+Research 0 0
+ResearchGroup 13 212
+
+TOTAL: 1515
+TOTAL SO FAR: 19512
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1179 15100
+takesCourse 1735 20468
+teacherOf 113 1530
+undergraduateDegreeFrom 181 2270
+mastersDegreeFrom 38 507
+doctoralDegreeFrom 38 507
+advisor 238 2936
+memberOf 620 7414
+publicationAuthor 775 9968
+headOf 1 14
+teachingAssistantOf 30 385
+researchInterest 33 420
+emailAddress 658 7921
+telephone 658 7921
+subOrganizationOf 14 226
+worksFor 38 507
+
+TOTAL: 6349
+TOTAL SO FAR: 78094
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University0_14.owl
+----------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 211 3510
+Department 1 15
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 125
+AssociateProfessor 12 176
+AssistantProfessor 8 146
+Lecturer 6 93
+Student 0 0
+UndergraduateStudent 265 5916
+GraduateStudent 111 1874
+TeachingAssistant 22 407
+ResearchAssistant 30 547
+Course 51 828
+GraduateCourse 46 799
+Publication 365 5999
+Chair 0 0
+Research 0 0
+ResearchGroup 12 224
+
+TOTAL: 1147
+TOTAL SO FAR: 20659
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 872 15972
+takesCourse 1021 21489
+teacherOf 97 1627
+undergraduateDegreeFrom 144 2414
+mastersDegreeFrom 33 540
+doctoralDegreeFrom 33 540
+advisor 165 3101
+memberOf 376 7790
+publicationAuthor 666 10634
+headOf 1 15
+teachingAssistantOf 22 407
+researchInterest 27 447
+emailAddress 409 8330
+telephone 409 8330
+subOrganizationOf 13 239
+worksFor 33 540
+
+TOTAL: 4321
+TOTAL SO FAR: 82415
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_0.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 226 3736
+Department 1 16
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 132
+AssociateProfessor 12 188
+AssistantProfessor 9 155
+Lecturer 7 100
+Student 0 0
+UndergraduateStudent 283 6199
+GraduateStudent 119 1993
+TeachingAssistant 24 431
+ResearchAssistant 30 577
+Course 50 878
+GraduateCourse 54 853
+Publication 397 6396
+Chair 0 0
+Research 0 0
+ResearchGroup 14 238
+
+TOTAL: 1233
+TOTAL SO FAR: 21892
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 940 16912
+takesCourse 1080 22569
+teacherOf 104 1731
+undergraduateDegreeFrom 154 2568
+mastersDegreeFrom 35 575
+doctoralDegreeFrom 35 575
+advisor 168 3269
+memberOf 402 8192
+publicationAuthor 722 11356
+headOf 1 16
+teachingAssistantOf 24 431
+researchInterest 28 475
+emailAddress 437 8767
+telephone 437 8767
+subOrganizationOf 15 254
+worksFor 35 575
+
+TOTAL: 4617
+TOTAL SO FAR: 87032
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_1.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 227 3963
+Department 1 17
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 140
+AssociateProfessor 14 202
+AssistantProfessor 10 165
+Lecturer 5 105
+Student 0 0
+UndergraduateStudent 471 6670
+GraduateStudent 115 2108
+TeachingAssistant 27 458
+ResearchAssistant 28 605
+Course 55 933
+GraduateCourse 54 907
+Publication 420 6816
+Chair 0 0
+Research 0 0
+ResearchGroup 11 249
+
+TOTAL: 1446
+TOTAL SO FAR: 23338
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1153 18065
+takesCourse 1648 24217
+teacherOf 109 1840
+undergraduateDegreeFrom 152 2720
+mastersDegreeFrom 37 612
+doctoralDegreeFrom 37 612
+advisor 209 3478
+memberOf 586 8778
+publicationAuthor 700 12056
+headOf 1 17
+teachingAssistantOf 27 458
+researchInterest 32 507
+emailAddress 623 9390
+telephone 623 9390
+subOrganizationOf 12 266
+worksFor 37 612
+
+TOTAL: 5986
+TOTAL SO FAR: 93018
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_2.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 217 4180
+Department 1 18
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 149
+AssociateProfessor 12 214
+AssistantProfessor 8 173
+Lecturer 7 112
+Student 0 0
+UndergraduateStudent 413 7083
+GraduateStudent 108 2216
+TeachingAssistant 24 482
+ResearchAssistant 27 632
+Course 53 986
+GraduateCourse 57 964
+Publication 408 7224
+Chair 0 0
+Research 0 0
+ResearchGroup 16 265
+
+TOTAL: 1360
+TOTAL SO FAR: 24698
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1076 19141
+takesCourse 1445 25662
+teacherOf 110 1950
+undergraduateDegreeFrom 144 2864
+mastersDegreeFrom 36 648
+doctoralDegreeFrom 36 648
+advisor 190 3668
+memberOf 521 9299
+publicationAuthor 665 12721
+headOf 1 18
+teachingAssistantOf 24 482
+researchInterest 29 536
+emailAddress 557 9947
+telephone 557 9947
+subOrganizationOf 17 283
+worksFor 36 648
+
+TOTAL: 5444
+TOTAL SO FAR: 98462
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_3.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 257 4437
+Department 1 19
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 158
+AssociateProfessor 14 228
+AssistantProfessor 11 184
+Lecturer 7 119
+Student 0 0
+UndergraduateStudent 492 7575
+GraduateStudent 133 2349
+TeachingAssistant 27 509
+ResearchAssistant 39 671
+Course 58 1044
+GraduateCourse 59 1023
+Publication 464 7688
+Chair 0 0
+Research 0 0
+ResearchGroup 15 280
+
+TOTAL: 1586
+TOTAL SO FAR: 26284
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1248 20389
+takesCourse 1775 27437
+teacherOf 117 2067
+undergraduateDegreeFrom 174 3038
+mastersDegreeFrom 41 689
+doctoralDegreeFrom 41 689
+advisor 220 3888
+memberOf 625 9924
+publicationAuthor 788 13509
+headOf 1 19
+teachingAssistantOf 27 509
+researchInterest 34 570
+emailAddress 666 10613
+telephone 666 10613
+subOrganizationOf 16 299
+worksFor 41 689
+
+TOTAL: 6480
+TOTAL SO FAR: 104942
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_4.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 243 4680
+Department 1 20
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 165
+AssociateProfessor 14 242
+AssistantProfessor 10 194
+Lecturer 7 126
+Student 0 0
+UndergraduateStudent 304 7879
+GraduateStudent 128 2477
+TeachingAssistant 28 537
+ResearchAssistant 39 710
+Course 60 1104
+GraduateCourse 51 1074
+Publication 402 8090
+Chair 0 0
+Research 0 0
+ResearchGroup 10 290
+
+TOTAL: 1304
+TOTAL SO FAR: 27588
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 984 21373
+takesCourse 1197 28634
+teacherOf 111 2178
+undergraduateDegreeFrom 166 3204
+mastersDegreeFrom 38 727
+doctoralDegreeFrom 38 727
+advisor 190 4078
+memberOf 432 10356
+publicationAuthor 733 14242
+headOf 1 20
+teachingAssistantOf 28 537
+researchInterest 31 601
+emailAddress 470 11083
+telephone 470 11083
+subOrganizationOf 11 310
+worksFor 38 727
+
+TOTAL: 4938
+TOTAL SO FAR: 109880
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_5.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 257 4937
+Department 1 21
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 174
+AssociateProfessor 12 254
+AssistantProfessor 10 204
+Lecturer 7 133
+Student 0 0
+UndergraduateStudent 516 8395
+GraduateStudent 142 2619
+TeachingAssistant 31 568
+ResearchAssistant 35 745
+Course 60 1164
+GraduateCourse 58 1132
+Publication 411 8501
+Chair 0 0
+Research 0 0
+ResearchGroup 19 309
+
+TOTAL: 1568
+TOTAL SO FAR: 29156
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1226 22599
+takesCourse 1850 30484
+teacherOf 118 2296
+undergraduateDegreeFrom 180 3384
+mastersDegreeFrom 38 765
+doctoralDegreeFrom 38 765
+advisor 227 4305
+memberOf 658 11014
+publicationAuthor 796 15038
+headOf 1 21
+teachingAssistantOf 31 568
+researchInterest 31 632
+emailAddress 696 11779
+telephone 696 11779
+subOrganizationOf 20 330
+worksFor 38 765
+
+TOTAL: 6644
+TOTAL SO FAR: 116524
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_6.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 254 5191
+Department 1 22
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 184
+AssociateProfessor 11 265
+AssistantProfessor 11 215
+Lecturer 7 140
+Student 0 0
+UndergraduateStudent 438 8833
+GraduateStudent 136 2755
+TeachingAssistant 28 596
+ResearchAssistant 41 786
+Course 63 1227
+GraduateCourse 58 1190
+Publication 429 8930
+Chair 0 0
+Research 0 0
+ResearchGroup 19 328
+
+TOTAL: 1506
+TOTAL SO FAR: 30662
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1164 23763
+takesCourse 1556 32040
+teacherOf 121 2417
+undergraduateDegreeFrom 175 3559
+mastersDegreeFrom 39 804
+doctoralDegreeFrom 39 804
+advisor 229 4534
+memberOf 574 11588
+publicationAuthor 772 15810
+headOf 1 22
+teachingAssistantOf 28 596
+researchInterest 32 664
+emailAddress 613 12392
+telephone 613 12392
+subOrganizationOf 20 350
+worksFor 39 804
+
+TOTAL: 6015
+TOTAL SO FAR: 122539
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_7.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 277 5468
+Department 1 23
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 194
+AssociateProfessor 12 277
+AssistantProfessor 11 226
+Lecturer 7 147
+Student 0 0
+UndergraduateStudent 427 9260
+GraduateStudent 156 2911
+TeachingAssistant 39 635
+ResearchAssistant 45 831
+Course 63 1290
+GraduateCourse 58 1248
+Publication 442 9372
+Chair 0 0
+Research 0 0
+ResearchGroup 10 338
+
+TOTAL: 1558
+TOTAL SO FAR: 32220
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1187 24950
+takesCourse 1591 33631
+teacherOf 121 2538
+undergraduateDegreeFrom 196 3755
+mastersDegreeFrom 40 844
+doctoralDegreeFrom 40 844
+advisor 242 4776
+memberOf 583 12171
+publicationAuthor 809 16619
+headOf 1 23
+teachingAssistantOf 39 635
+researchInterest 33 697
+emailAddress 623 13015
+telephone 623 13015
+subOrganizationOf 11 361
+worksFor 40 844
+
+TOTAL: 6179
+TOTAL SO FAR: 128718
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_8.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 219 5687
+Department 1 24
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 202
+AssociateProfessor 10 287
+AssistantProfessor 10 236
+Lecturer 7 154
+Student 0 0
+UndergraduateStudent 304 9564
+GraduateStudent 113 3024
+TeachingAssistant 23 658
+ResearchAssistant 32 863
+Course 47 1337
+GraduateCourse 56 1304
+Publication 371 9743
+Chair 0 0
+Research 0 0
+ResearchGroup 12 350
+
+TOTAL: 1213
+TOTAL SO FAR: 33433
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 927 25877
+takesCourse 1129 34760
+teacherOf 103 2641
+undergraduateDegreeFrom 148 3903
+mastersDegreeFrom 35 879
+doctoralDegreeFrom 35 879
+advisor 181 4957
+memberOf 417 12588
+publicationAuthor 630 17249
+headOf 1 24
+teachingAssistantOf 23 658
+researchInterest 28 725
+emailAddress 452 13467
+telephone 452 13467
+subOrganizationOf 13 374
+worksFor 35 879
+
+TOTAL: 4609
+TOTAL SO FAR: 133327
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_9.owl
+---------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 251 5938
+Department 1 25
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 211
+AssociateProfessor 12 299
+AssistantProfessor 9 245
+Lecturer 6 160
+Student 0 0
+UndergraduateStudent 457 10021
+GraduateStudent 142 3166
+TeachingAssistant 31 689
+ResearchAssistant 39 902
+Course 47 1384
+GraduateCourse 56 1360
+Publication 417 10160
+Chair 0 0
+Research 0 0
+ResearchGroup 12 362
+
+TOTAL: 1489
+TOTAL SO FAR: 34922
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1156 27033
+takesCourse 1655 36415
+teacherOf 103 2744
+undergraduateDegreeFrom 178 4081
+mastersDegreeFrom 36 915
+doctoralDegreeFrom 36 915
+advisor 235 5192
+memberOf 599 13187
+publicationAuthor 783 18032
+headOf 1 25
+teachingAssistantOf 31 689
+researchInterest 30 755
+emailAddress 635 14102
+telephone 635 14102
+subOrganizationOf 13 387
+worksFor 36 915
+
+TOTAL: 6162
+TOTAL SO FAR: 139489
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_10.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 257 6195
+Department 1 26
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 221
+AssociateProfessor 12 311
+AssistantProfessor 11 256
+Lecturer 5 165
+Student 0 0
+UndergraduateStudent 315 10336
+GraduateStudent 142 3308
+TeachingAssistant 33 722
+ResearchAssistant 38 940
+Course 59 1443
+GraduateCourse 57 1417
+Publication 443 10603
+Chair 0 0
+Research 0 0
+ResearchGroup 17 379
+
+TOTAL: 1400
+TOTAL SO FAR: 36322
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1055 28088
+takesCourse 1200 37615
+teacherOf 116 2860
+undergraduateDegreeFrom 180 4261
+mastersDegreeFrom 38 953
+doctoralDegreeFrom 38 953
+advisor 207 5399
+memberOf 457 13644
+publicationAuthor 770 18802
+headOf 1 26
+teachingAssistantOf 33 722
+researchInterest 33 788
+emailAddress 495 14597
+telephone 495 14597
+subOrganizationOf 18 405
+worksFor 38 953
+
+TOTAL: 5174
+TOTAL SO FAR: 144663
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_11.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 197 6392
+Department 1 27
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 228
+AssociateProfessor 10 321
+AssistantProfessor 8 264
+Lecturer 5 170
+Student 0 0
+UndergraduateStudent 249 10585
+GraduateStudent 106 3414
+TeachingAssistant 24 746
+ResearchAssistant 31 971
+Course 47 1490
+GraduateCourse 44 1461
+Publication 326 10929
+Chair 0 0
+Research 0 0
+ResearchGroup 17 396
+
+TOTAL: 1072
+TOTAL SO FAR: 37394
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 803 28891
+takesCourse 966 38581
+teacherOf 91 2951
+undergraduateDegreeFrom 136 4397
+mastersDegreeFrom 30 983
+doctoralDegreeFrom 30 983
+advisor 158 5557
+memberOf 355 13999
+publicationAuthor 634 19436
+headOf 1 27
+teachingAssistantOf 24 746
+researchInterest 25 813
+emailAddress 385 14982
+telephone 385 14982
+subOrganizationOf 18 423
+worksFor 30 983
+
+TOTAL: 4071
+TOTAL SO FAR: 148734
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_12.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 260 6652
+Department 1 28
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 238
+AssociateProfessor 13 334
+AssistantProfessor 9 273
+Lecturer 7 177
+Student 0 0
+UndergraduateStudent 448 11033
+GraduateStudent 142 3556
+TeachingAssistant 30 776
+ResearchAssistant 41 1012
+Course 63 1553
+GraduateCourse 52 1513
+Publication 461 11390
+Chair 0 0
+Research 0 0
+ResearchGroup 14 410
+
+TOTAL: 1551
+TOTAL SO FAR: 38945
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1206 30097
+takesCourse 1627 40208
+teacherOf 115 3066
+undergraduateDegreeFrom 181 4578
+mastersDegreeFrom 39 1022
+doctoralDegreeFrom 39 1022
+advisor 232 5789
+memberOf 590 14589
+publicationAuthor 800 20236
+headOf 1 28
+teachingAssistantOf 30 776
+researchInterest 32 845
+emailAddress 629 15611
+telephone 629 15611
+subOrganizationOf 15 438
+worksFor 39 1022
+
+TOTAL: 6204
+TOTAL SO FAR: 154938
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_13.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 252 6904
+Department 1 29
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 248
+AssociateProfessor 13 347
+AssistantProfessor 9 282
+Lecturer 5 182
+Student 0 0
+UndergraduateStudent 505 11538
+GraduateStudent 140 3696
+TeachingAssistant 33 809
+ResearchAssistant 43 1055
+Course 48 1601
+GraduateCourse 56 1569
+Publication 410 11800
+Chair 0 0
+Research 0 0
+ResearchGroup 20 430
+
+TOTAL: 1545
+TOTAL SO FAR: 40490
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1197 31294
+takesCourse 1802 42010
+teacherOf 104 3170
+undergraduateDegreeFrom 177 4755
+mastersDegreeFrom 37 1059
+doctoralDegreeFrom 37 1059
+advisor 251 6040
+memberOf 645 15234
+publicationAuthor 733 20969
+headOf 1 29
+teachingAssistantOf 33 809
+researchInterest 32 877
+emailAddress 682 16293
+telephone 682 16293
+subOrganizationOf 21 459
+worksFor 37 1059
+
+TOTAL: 6471
+TOTAL SO FAR: 161409
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_14.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 199 7103
+Department 1 30
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 255
+AssociateProfessor 10 357
+AssistantProfessor 10 292
+Lecturer 5 187
+Student 0 0
+UndergraduateStudent 438 11976
+GraduateStudent 102 3798
+TeachingAssistant 24 833
+ResearchAssistant 26 1081
+Course 49 1650
+GraduateCourse 46 1615
+Publication 365 12165
+Chair 0 0
+Research 0 0
+ResearchGroup 18 448
+
+TOTAL: 1300
+TOTAL SO FAR: 41790
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1033 32327
+takesCourse 1527 43537
+teacherOf 95 3265
+undergraduateDegreeFrom 134 4889
+mastersDegreeFrom 32 1091
+doctoralDegreeFrom 32 1091
+advisor 193 6233
+memberOf 540 15774
+publicationAuthor 623 21592
+headOf 1 30
+teachingAssistantOf 24 833
+researchInterest 27 904
+emailAddress 572 16865
+telephone 572 16865
+subOrganizationOf 19 478
+worksFor 32 1091
+
+TOTAL: 5456
+TOTAL SO FAR: 166865
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_15.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 241 7344
+Department 1 31
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 262
+AssociateProfessor 14 371
+AssistantProfessor 10 302
+Lecturer 5 192
+Student 0 0
+UndergraduateStudent 444 12420
+GraduateStudent 132 3930
+TeachingAssistant 33 866
+ResearchAssistant 33 1114
+Course 59 1709
+GraduateCourse 53 1668
+Publication 447 12612
+Chair 0 0
+Research 0 0
+ResearchGroup 18 466
+
+TOTAL: 1497
+TOTAL SO FAR: 43287
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1172 33499
+takesCourse 1591 45128
+teacherOf 112 3377
+undergraduateDegreeFrom 168 5057
+mastersDegreeFrom 36 1127
+doctoralDegreeFrom 36 1127
+advisor 213 6446
+memberOf 576 16350
+publicationAuthor 806 22398
+headOf 1 31
+teachingAssistantOf 33 866
+researchInterest 31 935
+emailAddress 612 17477
+telephone 612 17477
+subOrganizationOf 19 497
+worksFor 36 1127
+
+TOTAL: 6054
+TOTAL SO FAR: 172919
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_16.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 274 7618
+Department 1 32
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 272
+AssociateProfessor 12 383
+AssistantProfessor 11 313
+Lecturer 6 198
+Student 0 0
+UndergraduateStudent 466 12886
+GraduateStudent 156 4086
+TeachingAssistant 33 899
+ResearchAssistant 47 1161
+Course 62 1771
+GraduateCourse 58 1726
+Publication 434 13046
+Chair 0 0
+Research 0 0
+ResearchGroup 18 484
+
+TOTAL: 1588
+TOTAL SO FAR: 44875
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1216 34715
+takesCourse 1692 46820
+teacherOf 120 3497
+undergraduateDegreeFrom 195 5252
+mastersDegreeFrom 39 1166
+doctoralDegreeFrom 39 1166
+advisor 248 6694
+memberOf 622 16972
+publicationAuthor 813 23211
+headOf 1 32
+teachingAssistantOf 33 899
+researchInterest 33 968
+emailAddress 661 18138
+telephone 661 18138
+subOrganizationOf 19 516
+worksFor 39 1166
+
+TOTAL: 6431
+TOTAL SO FAR: 179350
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_17.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 236 7854
+Department 1 33
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 280
+AssociateProfessor 13 396
+AssistantProfessor 11 324
+Lecturer 7 205
+Student 0 0
+UndergraduateStudent 372 13258
+GraduateStudent 118 4204
+TeachingAssistant 25 924
+ResearchAssistant 31 1192
+Course 62 1833
+GraduateCourse 58 1784
+Publication 421 13467
+Chair 0 0
+Research 0 0
+ResearchGroup 19 503
+
+TOTAL: 1382
+TOTAL SO FAR: 46257
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1071 35786
+takesCourse 1361 48181
+teacherOf 120 3617
+undergraduateDegreeFrom 157 5409
+mastersDegreeFrom 39 1205
+doctoralDegreeFrom 39 1205
+advisor 179 6873
+memberOf 490 17462
+publicationAuthor 718 23929
+headOf 1 33
+teachingAssistantOf 25 924
+researchInterest 32 1000
+emailAddress 529 18667
+telephone 529 18667
+subOrganizationOf 20 536
+worksFor 39 1205
+
+TOTAL: 5349
+TOTAL SO FAR: 184699
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University1_18.owl
+----------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 227 8081
+Department 1 34
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 289
+AssociateProfessor 14 410
+AssistantProfessor 9 333
+Lecturer 5 210
+Student 0 0
+UndergraduateStudent 301 13559
+GraduateStudent 115 4319
+TeachingAssistant 23 947
+ResearchAssistant 35 1227
+Course 56 1889
+GraduateCourse 55 1839
+Publication 467 13934
+Chair 0 0
+Research 0 0
+ResearchGroup 15 518
+
+TOTAL: 1332
+TOTAL SO FAR: 47589
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1032 36818
+takesCourse 1124 49305
+teacherOf 111 3728
+undergraduateDegreeFrom 152 5561
+mastersDegreeFrom 37 1242
+doctoralDegreeFrom 37 1242
+advisor 171 7044
+memberOf 416 17878
+publicationAuthor 759 24688
+headOf 1 34
+teachingAssistantOf 23 947
+researchInterest 32 1032
+emailAddress 453 19120
+telephone 453 19120
+subOrganizationOf 16 552
+worksFor 37 1242
+
+TOTAL: 4854
+TOTAL SO FAR: 189553
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_0.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 219 8300
+Department 1 35
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 297
+AssociateProfessor 10 420
+AssistantProfessor 8 341
+Lecturer 5 215
+Student 0 0
+UndergraduateStudent 370 13929
+GraduateStudent 124 4443
+TeachingAssistant 24 971
+ResearchAssistant 35 1262
+Course 46 1935
+GraduateCourse 46 1885
+Publication 344 14278
+Chair 0 0
+Research 0 0
+ResearchGroup 15 533
+
+TOTAL: 1255
+TOTAL SO FAR: 48844
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 963 37781
+takesCourse 1363 50668
+teacherOf 92 3820
+undergraduateDegreeFrom 155 5716
+mastersDegreeFrom 31 1273
+doctoralDegreeFrom 31 1273
+advisor 207 7251
+memberOf 494 18372
+publicationAuthor 641 25329
+headOf 1 35
+teachingAssistantOf 24 971
+researchInterest 26 1058
+emailAddress 525 19645
+telephone 525 19645
+subOrganizationOf 16 568
+worksFor 31 1273
+
+TOTAL: 5125
+TOTAL SO FAR: 194678
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_1.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 256 8556
+Department 1 36
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 306
+AssociateProfessor 14 434
+AssistantProfessor 9 350
+Lecturer 5 220
+Student 0 0
+UndergraduateStudent 407 14336
+GraduateStudent 144 4587
+TeachingAssistant 34 1005
+ResearchAssistant 46 1308
+Course 53 1988
+GraduateCourse 54 1939
+Publication 431 14709
+Chair 0 0
+Research 0 0
+ResearchGroup 15 548
+
+TOTAL: 1478
+TOTAL SO FAR: 50322
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1127 38908
+takesCourse 1508 52176
+teacherOf 107 3927
+undergraduateDegreeFrom 181 5897
+mastersDegreeFrom 37 1310
+doctoralDegreeFrom 37 1310
+advisor 241 7492
+memberOf 551 18923
+publicationAuthor 774 26103
+headOf 1 36
+teachingAssistantOf 34 1005
+researchInterest 32 1090
+emailAddress 588 20233
+telephone 588 20233
+subOrganizationOf 16 584
+worksFor 37 1310
+
+TOTAL: 5859
+TOTAL SO FAR: 200537
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_2.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 236 8792
+Department 1 37
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 313
+AssociateProfessor 12 446
+AssistantProfessor 9 359
+Lecturer 6 226
+Student 0 0
+UndergraduateStudent 361 14697
+GraduateStudent 133 4720
+TeachingAssistant 29 1034
+ResearchAssistant 44 1352
+Course 48 2036
+GraduateCourse 43 1982
+Publication 351 15060
+Chair 0 0
+Research 0 0
+ResearchGroup 11 559
+
+TOTAL: 1291
+TOTAL SO FAR: 51613
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 971 39879
+takesCourse 1351 53527
+teacherOf 91 4018
+undergraduateDegreeFrom 167 6064
+mastersDegreeFrom 34 1344
+doctoralDegreeFrom 34 1344
+advisor 218 7710
+memberOf 494 19417
+publicationAuthor 649 26752
+headOf 1 37
+teachingAssistantOf 29 1034
+researchInterest 28 1118
+emailAddress 528 20761
+telephone 528 20761
+subOrganizationOf 12 596
+worksFor 34 1344
+
+TOTAL: 5169
+TOTAL SO FAR: 205706
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_3.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 227 9019
+Department 1 38
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 322
+AssociateProfessor 10 456
+AssistantProfessor 8 367
+Lecturer 6 232
+Student 0 0
+UndergraduateStudent 401 15098
+GraduateStudent 127 4847
+TeachingAssistant 29 1063
+ResearchAssistant 41 1393
+Course 45 2081
+GraduateCourse 48 2030
+Publication 368 15428
+Chair 0 0
+Research 0 0
+ResearchGroup 16 575
+
+TOTAL: 1336
+TOTAL SO FAR: 52949
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1023 40902
+takesCourse 1460 54987
+teacherOf 93 4111
+undergraduateDegreeFrom 160 6224
+mastersDegreeFrom 33 1377
+doctoralDegreeFrom 33 1377
+advisor 206 7916
+memberOf 528 19945
+publicationAuthor 696 27448
+headOf 1 38
+teachingAssistantOf 29 1063
+researchInterest 27 1145
+emailAddress 561 21322
+telephone 561 21322
+subOrganizationOf 17 613
+worksFor 33 1377
+
+TOTAL: 5461
+TOTAL SO FAR: 211167
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_4.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 251 9270
+Department 1 39
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 331
+AssociateProfessor 12 468
+AssistantProfessor 9 376
+Lecturer 6 238
+Student 0 0
+UndergraduateStudent 340 15438
+GraduateStudent 142 4989
+TeachingAssistant 31 1094
+ResearchAssistant 35 1428
+Course 56 2137
+GraduateCourse 57 2087
+Publication 401 15829
+Chair 0 0
+Research 0 0
+ResearchGroup 20 595
+
+TOTAL: 1370
+TOTAL SO FAR: 54319
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1033 41935
+takesCourse 1287 56274
+teacherOf 113 4224
+undergraduateDegreeFrom 178 6402
+mastersDegreeFrom 36 1413
+doctoralDegreeFrom 36 1413
+advisor 206 8122
+memberOf 482 20427
+publicationAuthor 740 28188
+headOf 1 39
+teachingAssistantOf 31 1094
+researchInterest 30 1175
+emailAddress 518 21840
+telephone 518 21840
+subOrganizationOf 21 634
+worksFor 36 1413
+
+TOTAL: 5266
+TOTAL SO FAR: 216433
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_5.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 228 9498
+Department 1 40
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 341
+AssociateProfessor 11 479
+AssistantProfessor 9 385
+Lecturer 7 245
+Student 0 0
+UndergraduateStudent 500 15938
+GraduateStudent 116 5105
+TeachingAssistant 28 1122
+ResearchAssistant 32 1460
+Course 59 2196
+GraduateCourse 53 2140
+Publication 380 16209
+Chair 0 0
+Research 0 0
+ResearchGroup 19 614
+
+TOTAL: 1453
+TOTAL SO FAR: 55772
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1146 43081
+takesCourse 1760 58034
+teacherOf 112 4336
+undergraduateDegreeFrom 153 6555
+mastersDegreeFrom 37 1450
+doctoralDegreeFrom 37 1450
+advisor 212 8334
+memberOf 616 21043
+publicationAuthor 686 28874
+headOf 1 40
+teachingAssistantOf 28 1122
+researchInterest 30 1205
+emailAddress 653 22493
+telephone 653 22493
+subOrganizationOf 20 654
+worksFor 37 1450
+
+TOTAL: 6181
+TOTAL SO FAR: 222614
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_6.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 214 9712
+Department 1 41
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 349
+AssociateProfessor 12 491
+AssistantProfessor 8 393
+Lecturer 7 252
+Student 0 0
+UndergraduateStudent 445 16383
+GraduateStudent 108 5213
+TeachingAssistant 21 1143
+ResearchAssistant 32 1492
+Course 49 2245
+GraduateCourse 58 2198
+Publication 382 16591
+Chair 0 0
+Research 0 0
+ResearchGroup 20 634
+
+TOTAL: 1365
+TOTAL SO FAR: 57137
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1078 44159
+takesCourse 1548 59582
+teacherOf 107 4443
+undergraduateDegreeFrom 143 6698
+mastersDegreeFrom 35 1485
+doctoralDegreeFrom 35 1485
+advisor 203 8537
+memberOf 553 21596
+publicationAuthor 664 29538
+headOf 1 41
+teachingAssistantOf 21 1143
+researchInterest 28 1233
+emailAddress 588 23081
+telephone 588 23081
+subOrganizationOf 21 675
+worksFor 35 1485
+
+TOTAL: 5648
+TOTAL SO FAR: 228262
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_7.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 246 9958
+Department 1 42
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 359
+AssociateProfessor 10 501
+AssistantProfessor 11 404
+Lecturer 5 257
+Student 0 0
+UndergraduateStudent 376 16759
+GraduateStudent 137 5350
+TeachingAssistant 33 1176
+ResearchAssistant 37 1529
+Course 54 2299
+GraduateCourse 55 2253
+Publication 421 17012
+Chair 0 0
+Research 0 0
+ResearchGroup 10 644
+
+TOTAL: 1406
+TOTAL SO FAR: 58543
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1080 45239
+takesCourse 1423 61005
+teacherOf 109 4552
+undergraduateDegreeFrom 173 6871
+mastersDegreeFrom 36 1521
+doctoralDegreeFrom 36 1521
+advisor 205 8742
+memberOf 513 22109
+publicationAuthor 761 30299
+headOf 1 42
+teachingAssistantOf 33 1176
+researchInterest 31 1264
+emailAddress 549 23630
+telephone 549 23630
+subOrganizationOf 11 686
+worksFor 36 1521
+
+TOTAL: 5546
+TOTAL SO FAR: 233808
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_8.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 264 10222
+Department 1 43
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 369
+AssociateProfessor 12 513
+AssistantProfessor 11 415
+Lecturer 5 262
+Student 0 0
+UndergraduateStudent 507 17266
+GraduateStudent 149 5499
+TeachingAssistant 36 1212
+ResearchAssistant 41 1570
+Course 57 2356
+GraduateCourse 55 2308
+Publication 453 17465
+Chair 0 0
+Research 0 0
+ResearchGroup 10 654
+
+TOTAL: 1611
+TOTAL SO FAR: 60154
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1260 46499
+takesCourse 1833 62838
+teacherOf 112 4664
+undergraduateDegreeFrom 187 7058
+mastersDegreeFrom 38 1559
+doctoralDegreeFrom 38 1559
+advisor 260 9002
+memberOf 656 22765
+publicationAuthor 822 31121
+headOf 1 43
+teachingAssistantOf 36 1212
+researchInterest 33 1297
+emailAddress 694 24324
+telephone 694 24324
+subOrganizationOf 11 697
+worksFor 38 1559
+
+TOTAL: 6713
+TOTAL SO FAR: 240521
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_9.owl
+---------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 217 10439
+Department 1 44
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 377
+AssociateProfessor 10 523
+AssistantProfessor 10 425
+Lecturer 7 269
+Student 0 0
+UndergraduateStudent 475 17741
+GraduateStudent 111 5610
+TeachingAssistant 27 1239
+ResearchAssistant 37 1607
+Course 54 2410
+GraduateCourse 57 2365
+Publication 399 17864
+Chair 0 0
+Research 0 0
+ResearchGroup 14 668
+
+TOTAL: 1427
+TOTAL SO FAR: 61581
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1132 47631
+takesCourse 1647 64485
+teacherOf 111 4775
+undergraduateDegreeFrom 146 7204
+mastersDegreeFrom 35 1594
+doctoralDegreeFrom 35 1594
+advisor 195 9197
+memberOf 586 23351
+publicationAuthor 662 31783
+headOf 1 44
+teachingAssistantOf 27 1239
+researchInterest 28 1325
+emailAddress 621 24945
+telephone 621 24945
+subOrganizationOf 15 712
+worksFor 35 1594
+
+TOTAL: 5897
+TOTAL SO FAR: 246418
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_10.owl
+----------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 230 10669
+Department 1 45
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 385
+AssociateProfessor 10 533
+AssistantProfessor 11 436
+Lecturer 6 275
+Student 0 0
+UndergraduateStudent 309 18050
+GraduateStudent 124 5734
+TeachingAssistant 31 1270
+ResearchAssistant 38 1645
+Course 51 2461
+GraduateCourse 56 2421
+Publication 374 18238
+Chair 0 0
+Research 0 0
+ResearchGroup 18 686
+
+TOTAL: 1267
+TOTAL SO FAR: 62848
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 950 48581
+takesCourse 1181 65666
+teacherOf 107 4882
+undergraduateDegreeFrom 159 7363
+mastersDegreeFrom 35 1629
+doctoralDegreeFrom 35 1629
+advisor 184 9381
+memberOf 433 23784
+publicationAuthor 699 32482
+headOf 1 45
+teachingAssistantOf 31 1270
+researchInterest 29 1354
+emailAddress 468 25413
+telephone 468 25413
+subOrganizationOf 19 731
+worksFor 35 1629
+
+TOTAL: 4834
+TOTAL SO FAR: 251252
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_11.owl
+----------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 244 10913
+Department 1 46
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 393
+AssociateProfessor 13 546
+AssistantProfessor 8 444
+Lecturer 6 281
+Student 0 0
+UndergraduateStudent 440 18490
+GraduateStudent 138 5872
+TeachingAssistant 28 1298
+ResearchAssistant 35 1680
+Course 54 2515
+GraduateCourse 53 2474
+Publication 404 18642
+Chair 0 0
+Research 0 0
+ResearchGroup 13 699
+
+TOTAL: 1445
+TOTAL SO FAR: 64293
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1125 49706
+takesCourse 1608 67274
+teacherOf 107 4989
+undergraduateDegreeFrom 173 7536
+mastersDegreeFrom 35 1664
+doctoralDegreeFrom 35 1664
+advisor 217 9598
+memberOf 578 24362
+publicationAuthor 752 33234
+headOf 1 46
+teachingAssistantOf 28 1298
+researchInterest 29 1383
+emailAddress 613 26026
+telephone 613 26026
+subOrganizationOf 14 745
+worksFor 35 1664
+
+TOTAL: 5963
+TOTAL SO FAR: 257215
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_12.owl
+----------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 287 11200
+Department 1 47
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 402
+AssociateProfessor 14 560
+AssistantProfessor 11 455
+Lecturer 7 288
+Student 0 0
+UndergraduateStudent 379 18869
+GraduateStudent 163 6035
+TeachingAssistant 38 1336
+ResearchAssistant 41 1721
+Course 65 2580
+GraduateCourse 67 2541
+Publication 453 19095
+Chair 0 0
+Research 0 0
+ResearchGroup 20 719
+
+TOTAL: 1555
+TOTAL SO FAR: 65848
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1169 50875
+takesCourse 1449 68723
+teacherOf 132 5121
+undergraduateDegreeFrom 204 7740
+mastersDegreeFrom 41 1705
+doctoralDegreeFrom 41 1705
+advisor 248 9846
+memberOf 542 24904
+publicationAuthor 852 34086
+headOf 1 47
+teachingAssistantOf 38 1336
+researchInterest 34 1417
+emailAddress 583 26609
+telephone 583 26609
+subOrganizationOf 21 766
+worksFor 41 1705
+
+TOTAL: 5979
+TOTAL SO FAR: 263194
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_13.owl
+----------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 233 11433
+Department 1 48
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 412
+AssociateProfessor 11 571
+AssistantProfessor 11 466
+Lecturer 5 293
+Student 0 0
+UndergraduateStudent 398 19267
+GraduateStudent 121 6156
+TeachingAssistant 24 1360
+ResearchAssistant 37 1758
+Course 51 2631
+GraduateCourse 60 2601
+Publication 441 19536
+Chair 0 0
+Research 0 0
+ResearchGroup 19 738
+
+TOTAL: 1422
+TOTAL SO FAR: 67270
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1109 51984
+takesCourse 1434 70157
+teacherOf 111 5232
+undergraduateDegreeFrom 158 7898
+mastersDegreeFrom 37 1742
+doctoralDegreeFrom 37 1742
+advisor 204 10050
+memberOf 519 25423
+publicationAuthor 758 34844
+headOf 1 48
+teachingAssistantOf 24 1360
+researchInterest 32 1449
+emailAddress 556 27165
+telephone 556 27165
+subOrganizationOf 20 786
+worksFor 37 1742
+
+TOTAL: 5593
+TOTAL SO FAR: 268787
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_14.owl
+----------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 244 11677
+Department 1 49
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 420
+AssociateProfessor 14 585
+AssistantProfessor 10 476
+Lecturer 5 298
+Student 0 0
+UndergraduateStudent 335 19602
+GraduateStudent 132 6288
+TeachingAssistant 27 1387
+ResearchAssistant 35 1793
+Course 60 2691
+GraduateCourse 57 2658
+Publication 418 19954
+Chair 0 0
+Research 0 0
+ResearchGroup 13 751
+
+TOTAL: 1359
+TOTAL SO FAR: 68629
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1040 53024
+takesCourse 1296 71453
+teacherOf 117 5349
+undergraduateDegreeFrom 169 8067
+mastersDegreeFrom 37 1779
+doctoralDegreeFrom 37 1779
+advisor 185 10235
+memberOf 467 25890
+publicationAuthor 759 35603
+headOf 1 49
+teachingAssistantOf 27 1387
+researchInterest 32 1481
+emailAddress 504 27669
+telephone 504 27669
+subOrganizationOf 14 800
+worksFor 37 1779
+
+TOTAL: 5226
+TOTAL SO FAR: 274013
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University2_15.owl
+----------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 202 11879
+Department 1 50
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 427
+AssociateProfessor 10 595
+AssistantProfessor 9 485
+Lecturer 7 305
+Student 0 0
+UndergraduateStudent 266 19868
+GraduateStudent 102 6390
+TeachingAssistant 23 1410
+ResearchAssistant 30 1823
+Course 49 2740
+GraduateCourse 50 2708
+Publication 376 20330
+Chair 0 0
+Research 0 0
+ResearchGroup 15 766
+
+TOTAL: 1147
+TOTAL SO FAR: 69776
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 877 53901
+takesCourse 985 72438
+teacherOf 99 5448
+undergraduateDegreeFrom 135 8202
+mastersDegreeFrom 33 1812
+doctoralDegreeFrom 33 1812
+advisor 158 10393
+memberOf 368 26258
+publicationAuthor 628 36231
+headOf 1 50
+teachingAssistantOf 23 1410
+researchInterest 26 1507
+emailAddress 401 28070
+telephone 401 28070
+subOrganizationOf 16 816
+worksFor 33 1812
+
+TOTAL: 4217
+TOTAL SO FAR: 278230
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_0.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 233 12112
+Department 1 51
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 436
+AssociateProfessor 10 605
+AssistantProfessor 11 496
+Lecturer 5 310
+Student 0 0
+UndergraduateStudent 418 20286
+GraduateStudent 126 6516
+TeachingAssistant 28 1438
+ResearchAssistant 38 1861
+Course 49 2789
+GraduateCourse 50 2758
+Publication 382 20712
+Chair 0 0
+Research 0 0
+ResearchGroup 18 784
+
+TOTAL: 1378
+TOTAL SO FAR: 71154
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1062 54963
+takesCourse 1514 73952
+teacherOf 99 5547
+undergraduateDegreeFrom 161 8363
+mastersDegreeFrom 35 1847
+doctoralDegreeFrom 35 1847
+advisor 208 10601
+memberOf 544 26802
+publicationAuthor 710 36941
+headOf 1 51
+teachingAssistantOf 28 1438
+researchInterest 30 1537
+emailAddress 579 28649
+telephone 579 28649
+subOrganizationOf 19 835
+worksFor 35 1847
+
+TOTAL: 5639
+TOTAL SO FAR: 283869
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_1.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 267 12379
+Department 1 52
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 444
+AssociateProfessor 14 619
+AssistantProfessor 11 507
+Lecturer 7 317
+Student 0 0
+UndergraduateStudent 346 20632
+GraduateStudent 146 6662
+TeachingAssistant 29 1467
+ResearchAssistant 45 1906
+Course 58 2847
+GraduateCourse 63 2821
+Publication 443 21155
+Chair 0 0
+Research 0 0
+ResearchGroup 20 804
+
+TOTAL: 1458
+TOTAL SO FAR: 72612
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1097 56060
+takesCourse 1336 75288
+teacherOf 121 5668
+undergraduateDegreeFrom 186 8549
+mastersDegreeFrom 40 1887
+doctoralDegreeFrom 40 1887
+advisor 210 10811
+memberOf 492 27294
+publicationAuthor 785 37726
+headOf 1 52
+teachingAssistantOf 29 1467
+researchInterest 33 1570
+emailAddress 532 29181
+telephone 532 29181
+subOrganizationOf 21 856
+worksFor 40 1887
+
+TOTAL: 5495
+TOTAL SO FAR: 289364
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_2.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 216 12595
+Department 1 53
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 451
+AssociateProfessor 10 629
+AssistantProfessor 8 515
+Lecturer 6 323
+Student 0 0
+UndergraduateStudent 285 20917
+GraduateStudent 122 6784
+TeachingAssistant 30 1497
+ResearchAssistant 33 1939
+Course 46 2893
+GraduateCourse 42 2863
+Publication 326 21481
+Chair 0 0
+Research 0 0
+ResearchGroup 11 815
+
+TOTAL: 1143
+TOTAL SO FAR: 73755
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 853 56913
+takesCourse 1099 76387
+teacherOf 88 5756
+undergraduateDegreeFrom 153 8702
+mastersDegreeFrom 31 1918
+doctoralDegreeFrom 31 1918
+advisor 182 10993
+memberOf 407 27701
+publicationAuthor 630 38356
+headOf 1 53
+teachingAssistantOf 30 1497
+researchInterest 25 1595
+emailAddress 438 29619
+telephone 438 29619
+subOrganizationOf 12 868
+worksFor 31 1918
+
+TOTAL: 4449
+TOTAL SO FAR: 293813
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_3.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 219 12814
+Department 1 54
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 461
+AssociateProfessor 11 640
+AssistantProfessor 9 524
+Lecturer 6 329
+Student 0 0
+UndergraduateStudent 350 21267
+GraduateStudent 110 6894
+TeachingAssistant 27 1524
+ResearchAssistant 32 1971
+Course 54 2947
+GraduateCourse 54 2917
+Publication 381 21862
+Chair 0 0
+Research 0 0
+ResearchGroup 20 835
+
+TOTAL: 1284
+TOTAL SO FAR: 75039
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 986 57899
+takesCourse 1276 77663
+teacherOf 108 5864
+undergraduateDegreeFrom 146 8848
+mastersDegreeFrom 36 1954
+doctoralDegreeFrom 36 1954
+advisor 183 11176
+memberOf 460 28161
+publicationAuthor 652 39008
+headOf 1 54
+teachingAssistantOf 27 1524
+researchInterest 30 1625
+emailAddress 496 30115
+telephone 496 30115
+subOrganizationOf 21 889
+worksFor 36 1954
+
+TOTAL: 4990
+TOTAL SO FAR: 298803
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_4.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 251 13065
+Department 1 55
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 471
+AssociateProfessor 11 651
+AssistantProfessor 10 534
+Lecturer 6 335
+Student 0 0
+UndergraduateStudent 449 21716
+GraduateStudent 139 7033
+TeachingAssistant 27 1551
+ResearchAssistant 46 2017
+Course 54 3001
+GraduateCourse 54 2971
+Publication 418 22280
+Chair 0 0
+Research 0 0
+ResearchGroup 19 854
+
+TOTAL: 1495
+TOTAL SO FAR: 76534
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1152 59051
+takesCourse 1653 79316
+teacherOf 108 5972
+undergraduateDegreeFrom 176 9024
+mastersDegreeFrom 37 1991
+doctoralDegreeFrom 37 1991
+advisor 231 11407
+memberOf 588 28749
+publicationAuthor 767 39775
+headOf 1 55
+teachingAssistantOf 27 1551
+researchInterest 31 1656
+emailAddress 625 30740
+telephone 625 30740
+subOrganizationOf 20 909
+worksFor 37 1991
+
+TOTAL: 6115
+TOTAL SO FAR: 304918
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_5.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 247 13312
+Department 1 56
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 479
+AssociateProfessor 13 664
+AssistantProfessor 10 544
+Lecturer 5 340
+Student 0 0
+UndergraduateStudent 411 22127
+GraduateStudent 138 7171
+TeachingAssistant 33 1584
+ResearchAssistant 38 2055
+Course 56 3057
+GraduateCourse 53 3024
+Publication 428 22708
+Chair 0 0
+Research 0 0
+ResearchGroup 10 864
+
+TOTAL: 1451
+TOTAL SO FAR: 77985
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1123 60174
+takesCourse 1501 80817
+teacherOf 109 6081
+undergraduateDegreeFrom 174 9198
+mastersDegreeFrom 36 2027
+doctoralDegreeFrom 36 2027
+advisor 212 11619
+memberOf 549 29298
+publicationAuthor 748 40523
+headOf 1 56
+teachingAssistantOf 33 1584
+researchInterest 31 1687
+emailAddress 585 31325
+telephone 585 31325
+subOrganizationOf 11 920
+worksFor 36 2027
+
+TOTAL: 5770
+TOTAL SO FAR: 310688
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_6.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 262 13574
+Department 1 57
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 488
+AssociateProfessor 14 678
+AssistantProfessor 10 554
+Lecturer 5 345
+Student 0 0
+UndergraduateStudent 325 22452
+GraduateStudent 147 7318
+TeachingAssistant 33 1617
+ResearchAssistant 42 2097
+Course 57 3114
+GraduateCourse 58 3082
+Publication 448 23156
+Chair 0 0
+Research 0 0
+ResearchGroup 11 875
+
+TOTAL: 1422
+TOTAL SO FAR: 79407
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1074 61248
+takesCourse 1257 82074
+teacherOf 115 6196
+undergraduateDegreeFrom 185 9383
+mastersDegreeFrom 38 2065
+doctoralDegreeFrom 38 2065
+advisor 219 11838
+memberOf 472 29770
+publicationAuthor 850 41373
+headOf 1 57
+teachingAssistantOf 33 1617
+researchInterest 33 1720
+emailAddress 510 31835
+telephone 510 31835
+subOrganizationOf 12 932
+worksFor 38 2065
+
+TOTAL: 5385
+TOTAL SO FAR: 316073
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_7.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 256 13830
+Department 1 58
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 498
+AssociateProfessor 11 689
+AssistantProfessor 10 564
+Lecturer 6 351
+Student 0 0
+UndergraduateStudent 495 22947
+GraduateStudent 144 7462
+TeachingAssistant 30 1647
+ResearchAssistant 39 2136
+Course 59 3173
+GraduateCourse 55 3137
+Publication 438 23594
+Chair 0 0
+Research 0 0
+ResearchGroup 14 889
+
+TOTAL: 1568
+TOTAL SO FAR: 80975
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1229 62477
+takesCourse 1787 83861
+teacherOf 114 6310
+undergraduateDegreeFrom 181 9564
+mastersDegreeFrom 37 2102
+doctoralDegreeFrom 37 2102
+advisor 243 12081
+memberOf 639 30409
+publicationAuthor 840 42213
+headOf 1 58
+teachingAssistantOf 30 1647
+researchInterest 31 1751
+emailAddress 676 32511
+telephone 676 32511
+subOrganizationOf 15 947
+worksFor 37 2102
+
+TOTAL: 6573
+TOTAL SO FAR: 322646
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_8.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 262 14092
+Department 1 59
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 508
+AssociateProfessor 14 703
+AssistantProfessor 11 575
+Lecturer 5 356
+Student 0 0
+UndergraduateStudent 428 23375
+GraduateStudent 141 7603
+TeachingAssistant 34 1681
+ResearchAssistant 37 2173
+Course 57 3230
+GraduateCourse 64 3201
+Publication 502 24096
+Chair 0 0
+Research 0 0
+ResearchGroup 19 908
+
+TOTAL: 1585
+TOTAL SO FAR: 82560
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1233 63710
+takesCourse 1559 85420
+teacherOf 121 6431
+undergraduateDegreeFrom 181 9745
+mastersDegreeFrom 40 2142
+doctoralDegreeFrom 40 2142
+advisor 222 12303
+memberOf 569 30978
+publicationAuthor 872 43085
+headOf 1 59
+teachingAssistantOf 34 1681
+researchInterest 35 1786
+emailAddress 609 33120
+telephone 609 33120
+subOrganizationOf 20 967
+worksFor 40 2142
+
+TOTAL: 6185
+TOTAL SO FAR: 328831
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_9.owl
+---------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 238 14330
+Department 1 60
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 518
+AssociateProfessor 10 713
+AssistantProfessor 9 584
+Lecturer 7 363
+Student 0 0
+UndergraduateStudent 348 23723
+GraduateStudent 129 7732
+TeachingAssistant 32 1713
+ResearchAssistant 34 2207
+Course 56 3286
+GraduateCourse 54 3255
+Publication 403 24499
+Chair 0 0
+Research 0 0
+ResearchGroup 15 923
+
+TOTAL: 1346
+TOTAL SO FAR: 83906
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1027 64737
+takesCourse 1322 86742
+teacherOf 110 6541
+undergraduateDegreeFrom 165 9910
+mastersDegreeFrom 36 2178
+doctoralDegreeFrom 36 2178
+advisor 196 12499
+memberOf 477 31455
+publicationAuthor 750 43835
+headOf 1 60
+teachingAssistantOf 32 1713
+researchInterest 29 1815
+emailAddress 513 33633
+telephone 513 33633
+subOrganizationOf 16 983
+worksFor 36 2178
+
+TOTAL: 5259
+TOTAL SO FAR: 334090
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_10.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 205 14535
+Department 1 61
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 525
+AssociateProfessor 11 724
+AssistantProfessor 9 593
+Lecturer 6 369
+Student 0 0
+UndergraduateStudent 355 24078
+GraduateStudent 105 7837
+TeachingAssistant 24 1737
+ResearchAssistant 31 2238
+Course 53 3339
+GraduateCourse 50 3305
+Publication 351 24850
+Chair 0 0
+Research 0 0
+ResearchGroup 10 933
+
+TOTAL: 1218
+TOTAL SO FAR: 85124
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 948 65685
+takesCourse 1281 88023
+teacherOf 103 6644
+undergraduateDegreeFrom 138 10048
+mastersDegreeFrom 33 2211
+doctoralDegreeFrom 33 2211
+advisor 191 12690
+memberOf 460 31915
+publicationAuthor 595 44430
+headOf 1 61
+teachingAssistantOf 24 1737
+researchInterest 27 1842
+emailAddress 493 34126
+telephone 493 34126
+subOrganizationOf 11 994
+worksFor 33 2211
+
+TOTAL: 4864
+TOTAL SO FAR: 338954
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_11.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 255 14790
+Department 1 62
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 534
+AssociateProfessor 11 735
+AssistantProfessor 11 604
+Lecturer 7 376
+Student 0 0
+UndergraduateStudent 467 24545
+GraduateStudent 140 7977
+TeachingAssistant 32 1769
+ResearchAssistant 40 2278
+Course 54 3393
+GraduateCourse 55 3360
+Publication 416 25266
+Chair 0 0
+Research 0 0
+ResearchGroup 14 947
+
+TOTAL: 1512
+TOTAL SO FAR: 86636
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1171 66856
+takesCourse 1666 89689
+teacherOf 109 6753
+undergraduateDegreeFrom 178 10226
+mastersDegreeFrom 38 2249
+doctoralDegreeFrom 38 2249
+advisor 234 12924
+memberOf 607 32522
+publicationAuthor 755 45185
+headOf 1 62
+teachingAssistantOf 32 1769
+researchInterest 31 1873
+emailAddress 645 34771
+telephone 645 34771
+subOrganizationOf 15 1009
+worksFor 38 2249
+
+TOTAL: 6203
+TOTAL SO FAR: 345157
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_12.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 264 15054
+Department 1 63
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 542
+AssociateProfessor 14 749
+AssistantProfessor 10 614
+Lecturer 6 382
+Student 0 0
+UndergraduateStudent 509 25054
+GraduateStudent 149 8126
+TeachingAssistant 32 1801
+ResearchAssistant 41 2319
+Course 62 3455
+GraduateCourse 61 3421
+Publication 432 25698
+Chair 0 0
+Research 0 0
+ResearchGroup 11 958
+
+TOTAL: 1600
+TOTAL SO FAR: 88236
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1252 68108
+takesCourse 1843 91532
+teacherOf 123 6876
+undergraduateDegreeFrom 187 10413
+mastersDegreeFrom 38 2287
+doctoralDegreeFrom 38 2287
+advisor 260 13184
+memberOf 658 33180
+publicationAuthor 882 46067
+headOf 1 63
+teachingAssistantOf 32 1801
+researchInterest 32 1905
+emailAddress 696 35467
+telephone 696 35467
+subOrganizationOf 12 1021
+worksFor 38 2287
+
+TOTAL: 6788
+TOTAL SO FAR: 351945
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_13.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 231 15285
+Department 1 64
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 552
+AssociateProfessor 11 760
+AssistantProfessor 9 623
+Lecturer 7 389
+Student 0 0
+UndergraduateStudent 432 25486
+GraduateStudent 119 8245
+TeachingAssistant 24 1825
+ResearchAssistant 29 2348
+Course 52 3507
+GraduateCourse 59 3480
+Publication 430 26128
+Chair 0 0
+Research 0 0
+ResearchGroup 14 972
+
+TOTAL: 1428
+TOTAL SO FAR: 89664
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1130 69238
+takesCourse 1535 93067
+teacherOf 111 6987
+undergraduateDegreeFrom 156 10569
+mastersDegreeFrom 37 2324
+doctoralDegreeFrom 37 2324
+advisor 190 13374
+memberOf 551 33731
+publicationAuthor 691 46758
+headOf 1 64
+teachingAssistantOf 24 1825
+researchInterest 30 1935
+emailAddress 588 36055
+telephone 588 36055
+subOrganizationOf 15 1036
+worksFor 37 2324
+
+TOTAL: 5721
+TOTAL SO FAR: 357666
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_14.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 205 15490
+Department 1 65
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 559
+AssociateProfessor 11 771
+AssistantProfessor 10 633
+Lecturer 6 395
+Student 0 0
+UndergraduateStudent 290 25776
+GraduateStudent 102 8347
+TeachingAssistant 22 1847
+ResearchAssistant 34 2382
+Course 48 3555
+GraduateCourse 51 3531
+Publication 363 26491
+Chair 0 0
+Research 0 0
+ResearchGroup 14 986
+
+TOTAL: 1164
+TOTAL SO FAR: 90828
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 889 70127
+takesCourse 1065 94132
+teacherOf 99 7086
+undergraduateDegreeFrom 136 10705
+mastersDegreeFrom 34 2358
+doctoralDegreeFrom 34 2358
+advisor 175 13549
+memberOf 392 34123
+publicationAuthor 613 47371
+headOf 1 65
+teachingAssistantOf 22 1847
+researchInterest 28 1963
+emailAddress 426 36481
+telephone 426 36481
+subOrganizationOf 15 1051
+worksFor 34 2358
+
+TOTAL: 4389
+TOTAL SO FAR: 362055
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_15.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 220 15710
+Department 1 66
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 566
+AssociateProfessor 11 782
+AssistantProfessor 11 644
+Lecturer 6 401
+Student 0 0
+UndergraduateStudent 337 26113
+GraduateStudent 114 8461
+TeachingAssistant 25 1872
+ResearchAssistant 29 2411
+Course 52 3607
+GraduateCourse 50 3581
+Publication 356 26847
+Chair 0 0
+Research 0 0
+ResearchGroup 10 996
+
+TOTAL: 1229
+TOTAL SO FAR: 92057
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 945 71072
+takesCourse 1219 95351
+teacherOf 102 7188
+undergraduateDegreeFrom 149 10854
+mastersDegreeFrom 35 2393
+doctoralDegreeFrom 35 2393
+advisor 176 13725
+memberOf 451 34574
+publicationAuthor 664 48035
+headOf 1 66
+teachingAssistantOf 25 1872
+researchInterest 29 1992
+emailAddress 486 36967
+telephone 486 36967
+subOrganizationOf 11 1062
+worksFor 35 2393
+
+TOTAL: 4849
+TOTAL SO FAR: 366904
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_16.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 239 15949
+Department 1 67
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 575
+AssociateProfessor 12 794
+AssistantProfessor 10 654
+Lecturer 6 407
+Student 0 0
+UndergraduateStudent 504 26617
+GraduateStudent 127 8588
+TeachingAssistant 30 1902
+ResearchAssistant 42 2453
+Course 49 3656
+GraduateCourse 60 3641
+Publication 406 27253
+Chair 0 0
+Research 0 0
+ResearchGroup 10 1006
+
+TOTAL: 1505
+TOTAL SO FAR: 93562
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1184 72256
+takesCourse 1781 97132
+teacherOf 109 7297
+undergraduateDegreeFrom 164 11018
+mastersDegreeFrom 37 2430
+doctoralDegreeFrom 37 2430
+advisor 224 13949
+memberOf 631 35205
+publicationAuthor 737 48772
+headOf 1 67
+teachingAssistantOf 30 1902
+researchInterest 31 2023
+emailAddress 668 37635
+telephone 668 37635
+subOrganizationOf 11 1073
+worksFor 37 2430
+
+TOTAL: 6350
+TOTAL SO FAR: 373254
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_17.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 241 16190
+Department 1 68
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 584
+AssociateProfessor 14 808
+AssistantProfessor 10 664
+Lecturer 7 414
+Student 0 0
+UndergraduateStudent 440 27057
+GraduateStudent 120 8708
+TeachingAssistant 30 1932
+ResearchAssistant 35 2488
+Course 61 3717
+GraduateCourse 62 3703
+Publication 441 27694
+Chair 0 0
+Research 0 0
+ResearchGroup 11 1017
+
+TOTAL: 1482
+TOTAL SO FAR: 95044
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1165 73421
+takesCourse 1574 98706
+teacherOf 123 7420
+undergraduateDegreeFrom 160 11178
+mastersDegreeFrom 40 2470
+doctoralDegreeFrom 40 2470
+advisor 218 14167
+memberOf 560 35765
+publicationAuthor 758 49530
+headOf 1 68
+teachingAssistantOf 30 1932
+researchInterest 33 2056
+emailAddress 600 38235
+telephone 600 38235
+subOrganizationOf 12 1085
+worksFor 40 2470
+
+TOTAL: 5954
+TOTAL SO FAR: 379208
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_18.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 245 16435
+Department 1 69
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 594
+AssociateProfessor 13 821
+AssistantProfessor 10 674
+Lecturer 6 420
+Student 0 0
+UndergraduateStudent 321 27378
+GraduateStudent 127 8835
+TeachingAssistant 27 1959
+ResearchAssistant 40 2528
+Course 61 3778
+GraduateCourse 52 3755
+Publication 439 28133
+Chair 0 0
+Research 0 0
+ResearchGroup 10 1027
+
+TOTAL: 1362
+TOTAL SO FAR: 96406
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1040 74461
+takesCourse 1225 99931
+teacherOf 113 7533
+undergraduateDegreeFrom 166 11344
+mastersDegreeFrom 39 2509
+doctoralDegreeFrom 39 2509
+advisor 205 14372
+memberOf 448 36213
+publicationAuthor 812 50342
+headOf 1 69
+teachingAssistantOf 27 1959
+researchInterest 33 2089
+emailAddress 487 38722
+telephone 487 38722
+subOrganizationOf 11 1096
+worksFor 39 2509
+
+TOTAL: 5172
+TOTAL SO FAR: 384380
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_19.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 255 16690
+Department 1 70
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 604
+AssociateProfessor 12 833
+AssistantProfessor 11 685
+Lecturer 5 425
+Student 0 0
+UndergraduateStudent 314 27692
+GraduateStudent 140 8975
+TeachingAssistant 35 1994
+ResearchAssistant 38 2566
+Course 51 3829
+GraduateCourse 57 3812
+Publication 437 28570
+Chair 0 0
+Research 0 0
+ResearchGroup 17 1044
+
+TOTAL: 1383
+TOTAL SO FAR: 97789
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1038 75499
+takesCourse 1209 101140
+teacherOf 108 7641
+undergraduateDegreeFrom 178 11522
+mastersDegreeFrom 38 2547
+doctoralDegreeFrom 38 2547
+advisor 196 14568
+memberOf 454 36667
+publicationAuthor 817 51159
+headOf 1 70
+teachingAssistantOf 35 1994
+researchInterest 33 2122
+emailAddress 492 39214
+telephone 492 39214
+subOrganizationOf 18 1114
+worksFor 38 2547
+
+TOTAL: 5185
+TOTAL SO FAR: 389565
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University3_20.owl
+----------------------------------------------
+External Seed=0 Interal Seed=3
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 228 16918
+Department 1 71
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 612
+AssociateProfessor 13 846
+AssistantProfessor 10 695
+Lecturer 5 430
+Student 0 0
+UndergraduateStudent 328 28020
+GraduateStudent 119 9094
+TeachingAssistant 24 2018
+ResearchAssistant 37 2603
+Course 54 3883
+GraduateCourse 52 3864
+Publication 434 29004
+Chair 0 0
+Research 0 0
+ResearchGroup 16 1060
+
+TOTAL: 1329
+TOTAL SO FAR: 99118
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1024 76523
+takesCourse 1228 102368
+teacherOf 106 7747
+undergraduateDegreeFrom 155 11677
+mastersDegreeFrom 36 2583
+doctoralDegreeFrom 36 2583
+advisor 200 14768
+memberOf 447 37114
+publicationAuthor 712 51871
+headOf 1 71
+teachingAssistantOf 24 2018
+researchInterest 31 2153
+emailAddress 483 39697
+telephone 483 39697
+subOrganizationOf 17 1131
+worksFor 36 2583
+
+TOTAL: 5019
+TOTAL SO FAR: 394584
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_0.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 267 17185
+Department 1 72
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 622
+AssociateProfessor 13 859
+AssistantProfessor 11 706
+Lecturer 5 435
+Student 0 0
+UndergraduateStudent 362 28382
+GraduateStudent 148 9242
+TeachingAssistant 30 2048
+ResearchAssistant 45 2648
+Course 61 3944
+GraduateCourse 60 3924
+Publication 455 29459
+Chair 0 0
+Research 0 0
+ResearchGroup 12 1072
+
+TOTAL: 1480
+TOTAL SO FAR: 100598
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1127 77650
+takesCourse 1386 103754
+teacherOf 121 7868
+undergraduateDegreeFrom 187 11864
+mastersDegreeFrom 39 2622
+doctoralDegreeFrom 39 2622
+advisor 210 14978
+memberOf 510 37624
+publicationAuthor 813 52684
+headOf 1 72
+teachingAssistantOf 30 2048
+researchInterest 34 2187
+emailAddress 549 40246
+telephone 549 40246
+subOrganizationOf 13 1144
+worksFor 39 2622
+
+TOTAL: 5647
+TOTAL SO FAR: 400231
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_1.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 226 17411
+Department 1 73
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 629
+AssociateProfessor 13 872
+AssistantProfessor 10 716
+Lecturer 7 442
+Student 0 0
+UndergraduateStudent 404 28786
+GraduateStudent 114 9356
+TeachingAssistant 25 2073
+ResearchAssistant 36 2684
+Course 55 3999
+GraduateCourse 53 3977
+Publication 397 29856
+Chair 0 0
+Research 0 0
+ResearchGroup 10 1082
+
+TOTAL: 1358
+TOTAL SO FAR: 101956
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1061 78711
+takesCourse 1454 105208
+teacherOf 108 7976
+undergraduateDegreeFrom 151 12015
+mastersDegreeFrom 37 2659
+doctoralDegreeFrom 37 2659
+advisor 198 15176
+memberOf 518 38142
+publicationAuthor 697 53381
+headOf 1 73
+teachingAssistantOf 25 2073
+researchInterest 30 2217
+emailAddress 555 40801
+telephone 555 40801
+subOrganizationOf 11 1155
+worksFor 37 2659
+
+TOTAL: 5475
+TOTAL SO FAR: 405706
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_2.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 230 17641
+Department 1 74
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 636
+AssociateProfessor 12 884
+AssistantProfessor 10 726
+Lecturer 6 448
+Student 0 0
+UndergraduateStudent 424 29210
+GraduateStudent 124 9480
+TeachingAssistant 24 2097
+ResearchAssistant 41 2725
+Course 57 4056
+GraduateCourse 55 4032
+Publication 372 30228
+Chair 0 0
+Research 0 0
+ResearchGroup 10 1092
+
+TOTAL: 1373
+TOTAL SO FAR: 103329
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1068 79779
+takesCourse 1544 106752
+teacherOf 112 8088
+undergraduateDegreeFrom 159 12174
+mastersDegreeFrom 35 2694
+doctoralDegreeFrom 35 2694
+advisor 202 15378
+memberOf 548 38690
+publicationAuthor 680 54061
+headOf 1 74
+teachingAssistantOf 24 2097
+researchInterest 29 2246
+emailAddress 583 41384
+telephone 583 41384
+subOrganizationOf 11 1166
+worksFor 35 2694
+
+TOTAL: 5649
+TOTAL SO FAR: 411355
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_3.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 207 17848
+Department 1 75
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 643
+AssociateProfessor 10 894
+AssistantProfessor 8 734
+Lecturer 5 453
+Student 0 0
+UndergraduateStudent 319 29529
+GraduateStudent 116 9596
+TeachingAssistant 28 2125
+ResearchAssistant 30 2755
+Course 49 4105
+GraduateCourse 46 4078
+Publication 335 30563
+Chair 0 0
+Research 0 0
+ResearchGroup 14 1106
+
+TOTAL: 1175
+TOTAL SO FAR: 104504
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 896 80675
+takesCourse 1207 107959
+teacherOf 95 8183
+undergraduateDegreeFrom 146 12320
+mastersDegreeFrom 30 2724
+doctoralDegreeFrom 30 2724
+advisor 181 15559
+memberOf 435 39125
+publicationAuthor 618 54679
+headOf 1 75
+teachingAssistantOf 28 2125
+researchInterest 25 2271
+emailAddress 465 41849
+telephone 465 41849
+subOrganizationOf 15 1181
+worksFor 30 2724
+
+TOTAL: 4667
+TOTAL SO FAR: 416022
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_4.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 238 18086
+Department 1 76
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 652
+AssociateProfessor 13 907
+AssistantProfessor 11 745
+Lecturer 6 459
+Student 0 0
+UndergraduateStudent 466 29995
+GraduateStudent 120 9716
+TeachingAssistant 27 2152
+ResearchAssistant 30 2785
+Course 55 4160
+GraduateCourse 53 4131
+Publication 434 30997
+Chair 0 0
+Research 0 0
+ResearchGroup 10 1116
+
+TOTAL: 1473
+TOTAL SO FAR: 105977
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1168 81843
+takesCourse 1635 109594
+teacherOf 108 8291
+undergraduateDegreeFrom 159 12479
+mastersDegreeFrom 39 2763
+doctoralDegreeFrom 39 2763
+advisor 203 15762
+memberOf 586 39711
+publicationAuthor 720 55399
+headOf 1 76
+teachingAssistantOf 27 2152
+researchInterest 33 2304
+emailAddress 625 42474
+telephone 625 42474
+subOrganizationOf 11 1192
+worksFor 39 2763
+
+TOTAL: 6018
+TOTAL SO FAR: 422040
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_5.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 238 18324
+Department 1 77
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 659
+AssociateProfessor 14 921
+AssistantProfessor 8 753
+Lecturer 5 464
+Student 0 0
+UndergraduateStudent 338 30333
+GraduateStudent 135 9851
+TeachingAssistant 33 2185
+ResearchAssistant 37 2822
+Course 47 4207
+GraduateCourse 49 4180
+Publication 406 31403
+Chair 0 0
+Research 0 0
+ResearchGroup 14 1130
+
+TOTAL: 1332
+TOTAL SO FAR: 107309
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1010 82853
+takesCourse 1274 110868
+teacherOf 96 8387
+undergraduateDegreeFrom 169 12648
+mastersDegreeFrom 34 2797
+doctoralDegreeFrom 34 2797
+advisor 212 15974
+memberOf 473 40184
+publicationAuthor 747 56146
+headOf 1 77
+teachingAssistantOf 33 2185
+researchInterest 29 2333
+emailAddress 507 42981
+telephone 507 42981
+subOrganizationOf 15 1207
+worksFor 34 2797
+
+TOTAL: 5175
+TOTAL SO FAR: 427215
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_6.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 263 18587
+Department 1 78
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 667
+AssociateProfessor 14 935
+AssistantProfessor 11 764
+Lecturer 5 469
+Student 0 0
+UndergraduateStudent 463 30796
+GraduateStudent 148 9999
+TeachingAssistant 36 2221
+ResearchAssistant 38 2860
+Course 53 4260
+GraduateCourse 51 4231
+Publication 448 31851
+Chair 0 0
+Research 0 0
+ResearchGroup 17 1147
+
+TOTAL: 1556
+TOTAL SO FAR: 108865
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1202 84055
+takesCourse 1702 112570
+teacherOf 104 8491
+undergraduateDegreeFrom 186 12834
+mastersDegreeFrom 38 2835
+doctoralDegreeFrom 38 2835
+advisor 240 16214
+memberOf 611 40795
+publicationAuthor 835 56981
+headOf 1 78
+teachingAssistantOf 36 2221
+researchInterest 33 2366
+emailAddress 649 43630
+telephone 649 43630
+subOrganizationOf 18 1225
+worksFor 38 2835
+
+TOTAL: 6380
+TOTAL SO FAR: 433595
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_7.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 239 18826
+Department 1 79
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 676
+AssociateProfessor 10 945
+AssistantProfessor 10 774
+Lecturer 6 475
+Student 0 0
+UndergraduateStudent 302 31098
+GraduateStudent 133 10132
+TeachingAssistant 33 2254
+ResearchAssistant 42 2902
+Course 52 4312
+GraduateCourse 48 4279
+Publication 402 32253
+Chair 0 0
+Research 0 0
+ResearchGroup 12 1159
+
+TOTAL: 1299
+TOTAL SO FAR: 110164
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 973 85028
+takesCourse 1162 113732
+teacherOf 100 8591
+undergraduateDegreeFrom 168 13002
+mastersDegreeFrom 35 2870
+doctoralDegreeFrom 35 2870
+advisor 192 16406
+memberOf 435 41230
+publicationAuthor 700 57681
+headOf 1 79
+teachingAssistantOf 33 2254
+researchInterest 29 2395
+emailAddress 470 44100
+telephone 470 44100
+subOrganizationOf 13 1238
+worksFor 35 2870
+
+TOTAL: 4851
+TOTAL SO FAR: 438446
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_8.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 252 19078
+Department 1 80
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 685
+AssociateProfessor 12 957
+AssistantProfessor 10 784
+Lecturer 6 481
+Student 0 0
+UndergraduateStudent 328 31426
+GraduateStudent 140 10272
+TeachingAssistant 34 2288
+ResearchAssistant 39 2941
+Course 62 4374
+GraduateCourse 58 4337
+Publication 434 32687
+Chair 0 0
+Research 0 0
+ResearchGroup 11 1170
+
+TOTAL: 1396
+TOTAL SO FAR: 111560
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1060 86088
+takesCourse 1271 115003
+teacherOf 120 8711
+undergraduateDegreeFrom 177 13179
+mastersDegreeFrom 37 2907
+doctoralDegreeFrom 37 2907
+advisor 219 16625
+memberOf 468 41698
+publicationAuthor 798 58479
+headOf 1 80
+teachingAssistantOf 34 2288
+researchInterest 31 2426
+emailAddress 505 44605
+telephone 505 44605
+subOrganizationOf 12 1250
+worksFor 37 2907
+
+TOTAL: 5312
+TOTAL SO FAR: 443758
+
+---------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_9.owl
+---------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 246 19324
+Department 1 81
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 695
+AssociateProfessor 12 969
+AssistantProfessor 8 792
+Lecturer 6 487
+Student 0 0
+UndergraduateStudent 434 31860
+GraduateStudent 137 10409
+TeachingAssistant 27 2315
+ResearchAssistant 34 2975
+Course 50 4424
+GraduateCourse 51 4388
+Publication 401 33088
+Chair 0 0
+Research 0 0
+ResearchGroup 10 1180
+
+TOTAL: 1427
+TOTAL SO FAR: 112987
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1110 87198
+takesCourse 1585 116588
+teacherOf 101 8812
+undergraduateDegreeFrom 173 13352
+mastersDegreeFrom 36 2943
+doctoralDegreeFrom 36 2943
+advisor 222 16847
+memberOf 571 42269
+publicationAuthor 713 59192
+headOf 1 81
+teachingAssistantOf 27 2315
+researchInterest 30 2456
+emailAddress 607 45212
+telephone 607 45212
+subOrganizationOf 11 1261
+worksFor 36 2943
+
+TOTAL: 5866
+TOTAL SO FAR: 449624
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_10.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 254 19578
+Department 1 82
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 705
+AssociateProfessor 12 981
+AssistantProfessor 8 800
+Lecturer 7 494
+Student 0 0
+UndergraduateStudent 499 32359
+GraduateStudent 142 10551
+TeachingAssistant 30 2345
+ResearchAssistant 36 3011
+Course 61 4485
+GraduateCourse 58 4446
+Publication 415 33503
+Chair 0 0
+Research 0 0
+ResearchGroup 15 1195
+
+TOTAL: 1548
+TOTAL SO FAR: 114535
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1213 88411
+takesCourse 1808 118396
+teacherOf 119 8931
+undergraduateDegreeFrom 179 13531
+mastersDegreeFrom 37 2980
+doctoralDegreeFrom 37 2980
+advisor 246 17093
+memberOf 641 42910
+publicationAuthor 763 59955
+headOf 1 82
+teachingAssistantOf 30 2345
+researchInterest 30 2486
+emailAddress 678 45890
+telephone 678 45890
+subOrganizationOf 16 1277
+worksFor 37 2980
+
+TOTAL: 6513
+TOTAL SO FAR: 456137
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_11.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 259 19837
+Department 1 83
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 713
+AssociateProfessor 14 995
+AssistantProfessor 11 811
+Lecturer 7 501
+Student 0 0
+UndergraduateStudent 531 32890
+GraduateStudent 138 10689
+TeachingAssistant 29 2374
+ResearchAssistant 41 3052
+Course 57 4542
+GraduateCourse 59 4505
+Publication 441 33944
+Chair 0 0
+Research 0 0
+ResearchGroup 18 1213
+
+TOTAL: 1614
+TOTAL SO FAR: 116149
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1267 89678
+takesCourse 1879 120275
+teacherOf 116 9047
+undergraduateDegreeFrom 178 13709
+mastersDegreeFrom 40 3020
+doctoralDegreeFrom 40 3020
+advisor 239 17332
+memberOf 669 43579
+publicationAuthor 765 60720
+headOf 1 83
+teachingAssistantOf 29 2374
+researchInterest 33 2519
+emailAddress 709 46599
+telephone 709 46599
+subOrganizationOf 19 1296
+worksFor 40 3020
+
+TOTAL: 6733
+TOTAL SO FAR: 462870
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_12.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 239 20076
+Department 1 84
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 720
+AssociateProfessor 14 1009
+AssistantProfessor 10 821
+Lecturer 6 507
+Student 0 0
+UndergraduateStudent 352 33242
+GraduateStudent 127 10816
+TeachingAssistant 30 2404
+ResearchAssistant 37 3089
+Course 50 4592
+GraduateCourse 52 4557
+Publication 410 34354
+Chair 0 0
+Research 0 0
+ResearchGroup 13 1226
+
+TOTAL: 1348
+TOTAL SO FAR: 117497
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1029 90707
+takesCourse 1328 121603
+teacherOf 102 9149
+undergraduateDegreeFrom 164 13873
+mastersDegreeFrom 37 3057
+doctoralDegreeFrom 37 3057
+advisor 195 17527
+memberOf 479 44058
+publicationAuthor 709 61429
+headOf 1 84
+teachingAssistantOf 30 2404
+researchInterest 31 2550
+emailAddress 516 47115
+telephone 516 47115
+subOrganizationOf 14 1310
+worksFor 37 3057
+
+TOTAL: 5225
+TOTAL SO FAR: 468095
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_13.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 228 20304
+Department 1 85
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 730
+AssociateProfessor 10 1019
+AssistantProfessor 11 832
+Lecturer 5 512
+Student 0 0
+UndergraduateStudent 428 33670
+GraduateStudent 119 10935
+TeachingAssistant 23 2427
+ResearchAssistant 35 3124
+Course 57 4649
+GraduateCourse 53 4610
+Publication 419 34773
+Chair 0 0
+Research 0 0
+ResearchGroup 20 1246
+
+TOTAL: 1419
+TOTAL SO FAR: 118916
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1113 91820
+takesCourse 1524 123127
+teacherOf 110 9259
+undergraduateDegreeFrom 155 14028
+mastersDegreeFrom 36 3093
+doctoralDegreeFrom 36 3093
+advisor 215 17742
+memberOf 547 44605
+publicationAuthor 700 62129
+headOf 1 85
+teachingAssistantOf 23 2427
+researchInterest 31 2581
+emailAddress 583 47698
+telephone 583 47698
+subOrganizationOf 21 1331
+worksFor 36 3093
+
+TOTAL: 5714
+TOTAL SO FAR: 473809
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_14.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 221 20525
+Department 1 86
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 737
+AssociateProfessor 11 1030
+AssistantProfessor 10 842
+Lecturer 7 519
+Student 0 0
+UndergraduateStudent 421 34091
+GraduateStudent 115 11050
+TeachingAssistant 28 2455
+ResearchAssistant 32 3156
+Course 54 4703
+GraduateCourse 50 4660
+Publication 358 35131
+Chair 0 0
+Research 0 0
+ResearchGroup 20 1266
+
+TOTAL: 1335
+TOTAL SO FAR: 120251
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1034 92854
+takesCourse 1498 124625
+teacherOf 104 9363
+undergraduateDegreeFrom 150 14178
+mastersDegreeFrom 35 3128
+doctoralDegreeFrom 35 3128
+advisor 226 17968
+memberOf 536 45141
+publicationAuthor 669 62798
+headOf 1 86
+teachingAssistantOf 28 2455
+researchInterest 28 2609
+emailAddress 571 48269
+telephone 571 48269
+subOrganizationOf 21 1352
+worksFor 35 3128
+
+TOTAL: 5542
+TOTAL SO FAR: 479351
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_15.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 210 20735
+Department 1 87
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 744
+AssociateProfessor 11 1041
+AssistantProfessor 8 850
+Lecturer 7 526
+Student 0 0
+UndergraduateStudent 322 34413
+GraduateStudent 110 11160
+TeachingAssistant 22 2477
+ResearchAssistant 36 3192
+Course 42 4745
+GraduateCourse 52 4712
+Publication 374 35505
+Chair 0 0
+Research 0 0
+ResearchGroup 20 1286
+
+TOTAL: 1222
+TOTAL SO FAR: 121473
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 934 93788
+takesCourse 1168 125793
+teacherOf 94 9457
+undergraduateDegreeFrom 143 14321
+mastersDegreeFrom 33 3161
+doctoralDegreeFrom 33 3161
+advisor 178 18146
+memberOf 432 45573
+publicationAuthor 663 63461
+headOf 1 87
+teachingAssistantOf 22 2477
+researchInterest 26 2635
+emailAddress 465 48734
+telephone 465 48734
+subOrganizationOf 21 1373
+worksFor 33 3161
+
+TOTAL: 4711
+TOTAL SO FAR: 484062
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_16.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 207 20942
+Department 1 88
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 751
+AssociateProfessor 11 1052
+AssistantProfessor 8 858
+Lecturer 6 532
+Student 0 0
+UndergraduateStudent 325 34738
+GraduateStudent 110 11270
+TeachingAssistant 25 2502
+ResearchAssistant 36 3228
+Course 47 4792
+GraduateCourse 46 4758
+Publication 347 35852
+Chair 0 0
+Research 0 0
+ResearchGroup 10 1296
+
+TOTAL: 1186
+TOTAL SO FAR: 122659
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 908 94696
+takesCourse 1209 127002
+teacherOf 93 9550
+undergraduateDegreeFrom 142 14463
+mastersDegreeFrom 32 3193
+doctoralDegreeFrom 32 3193
+advisor 181 18327
+memberOf 435 46008
+publicationAuthor 635 64096
+headOf 1 88
+teachingAssistantOf 25 2502
+researchInterest 26 2661
+emailAddress 467 49201
+telephone 467 49201
+subOrganizationOf 11 1384
+worksFor 32 3193
+
+TOTAL: 4696
+TOTAL SO FAR: 488758
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_17.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 284 21226
+Department 1 89
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 761
+AssociateProfessor 14 1066
+AssistantProfessor 11 869
+Lecturer 7 539
+Student 0 0
+UndergraduateStudent 579 35317
+GraduateStudent 157 11427
+TeachingAssistant 37 2539
+ResearchAssistant 40 3268
+Course 64 4856
+GraduateCourse 63 4821
+Publication 439 36291
+Chair 0 0
+Research 0 0
+ResearchGroup 16 1312
+
+TOTAL: 1722
+TOTAL SO FAR: 124381
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1345 96041
+takesCourse 2027 129029
+teacherOf 127 9677
+undergraduateDegreeFrom 199 14662
+mastersDegreeFrom 42 3235
+doctoralDegreeFrom 42 3235
+advisor 286 18613
+memberOf 736 46744
+publicationAuthor 831 64927
+headOf 1 89
+teachingAssistantOf 37 2539
+researchInterest 35 2696
+emailAddress 778 49979
+telephone 778 49979
+subOrganizationOf 17 1401
+worksFor 42 3235
+
+TOTAL: 7323
+TOTAL SO FAR: 496081
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_18.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 212 21438
+Department 1 90
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 769
+AssociateProfessor 12 1078
+AssistantProfessor 8 877
+Lecturer 5 544
+Student 0 0
+UndergraduateStudent 302 35619
+GraduateStudent 112 11539
+TeachingAssistant 22 2561
+ResearchAssistant 29 3297
+Course 49 4905
+GraduateCourse 50 4871
+Publication 393 36684
+Chair 0 0
+Research 0 0
+ResearchGroup 16 1328
+
+TOTAL: 1219
+TOTAL SO FAR: 125600
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 940 96981
+takesCourse 1097 130126
+teacherOf 99 9776
+undergraduateDegreeFrom 145 14807
+mastersDegreeFrom 33 3268
+doctoralDegreeFrom 33 3268
+advisor 172 18785
+memberOf 414 47158
+publicationAuthor 695 65622
+headOf 1 90
+teachingAssistantOf 22 2561
+researchInterest 28 2724
+emailAddress 447 50426
+telephone 447 50426
+subOrganizationOf 17 1418
+worksFor 33 3268
+
+TOTAL: 4623
+TOTAL SO FAR: 500704
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_19.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 248 21686
+Department 1 91
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 778
+AssociateProfessor 11 1089
+AssistantProfessor 11 888
+Lecturer 6 550
+Student 0 0
+UndergraduateStudent 351 35970
+GraduateStudent 136 11675
+TeachingAssistant 34 2595
+ResearchAssistant 37 3334
+Course 54 4959
+GraduateCourse 55 4926
+Publication 405 37089
+Chair 0 0
+Research 0 0
+ResearchGroup 16 1344
+
+TOTAL: 1374
+TOTAL SO FAR: 126974
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1039 98020
+takesCourse 1341 131467
+teacherOf 109 9885
+undergraduateDegreeFrom 173 14980
+mastersDegreeFrom 37 3305
+doctoralDegreeFrom 37 3305
+advisor 211 18996
+memberOf 487 47645
+publicationAuthor 748 66370
+headOf 1 91
+teachingAssistantOf 34 2595
+researchInterest 31 2755
+emailAddress 524 50950
+telephone 524 50950
+subOrganizationOf 17 1435
+worksFor 37 3305
+
+TOTAL: 5350
+TOTAL SO FAR: 506054
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_20.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 232 21918
+Department 1 92
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 787
+AssociateProfessor 11 1100
+AssistantProfessor 11 899
+Lecturer 5 555
+Student 0 0
+UndergraduateStudent 398 36368
+GraduateStudent 123 11798
+TeachingAssistant 28 2623
+ResearchAssistant 37 3371
+Course 58 5017
+GraduateCourse 55 4981
+Publication 417 37506
+Chair 0 0
+Research 0 0
+ResearchGroup 17 1361
+
+TOTAL: 1402
+TOTAL SO FAR: 128376
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1088 99108
+takesCourse 1449 132916
+teacherOf 113 9998
+undergraduateDegreeFrom 159 15139
+mastersDegreeFrom 36 3341
+doctoralDegreeFrom 36 3341
+advisor 202 19198
+memberOf 521 48166
+publicationAuthor 732 67102
+headOf 1 92
+teachingAssistantOf 28 2623
+researchInterest 31 2786
+emailAddress 557 51507
+telephone 557 51507
+subOrganizationOf 18 1453
+worksFor 36 3341
+
+TOTAL: 5564
+TOTAL SO FAR: 511618
+
+----------------------------------------------
+/Users/zakio/Desktop/uba1.7/University4_21.owl
+----------------------------------------------
+External Seed=0 Interal Seed=4
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 199 22117
+Department 1 93
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 794
+AssociateProfessor 10 1110
+AssistantProfessor 8 907
+Lecturer 7 562
+Student 0 0
+UndergraduateStudent 314 36682
+GraduateStudent 102 11900
+TeachingAssistant 20 2643
+ResearchAssistant 34 3405
+Course 46 5063
+GraduateCourse 51 5032
+Publication 348 37854
+Chair 0 0
+Research 0 0
+ResearchGroup 10 1371
+
+TOTAL: 1157
+TOTAL SO FAR: 129533
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 894 100002
+takesCourse 1135 134051
+teacherOf 97 10095
+undergraduateDegreeFrom 134 15273
+mastersDegreeFrom 32 3373
+doctoralDegreeFrom 32 3373
+advisor 173 19371
+memberOf 416 48582
+publicationAuthor 600 67702
+headOf 1 93
+teachingAssistantOf 20 2643
+researchInterest 25 2811
+emailAddress 448 51955
+telephone 448 51955
+subOrganizationOf 11 1464
+worksFor 32 3373
+
+TOTAL: 4498
+TOTAL SO FAR: 516116
+
