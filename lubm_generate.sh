@@ -13,4 +13,4 @@ fi
 
 javac -d bin src/edu/lehigh/swat/bench/uba/*.java
 
-java -cp bin edu.lehigh.swat.bench.uba.Generator -univ $DEFAULT_UNIV -onto https://swat.cse.lehigh.edu/onto/univ-bench.owl
+java -cp bin edu.lehigh.swat.bench.uba.Generator -univ $UNIV -onto https://swat.cse.lehigh.edu/onto/univ-bench.owl
