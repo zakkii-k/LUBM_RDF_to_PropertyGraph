@@ -104,7 +104,7 @@ def construct_property_graph(g, class_labels, dataTypeProperty, objectProperty):
                 edge_id_map[(pred, sub_id, obj_id)] = next_edge_id
                 edge_map[next_edge_id] = {
                     "id": next_edge_id,
-                    "label": objectProperty[pred],
+                    "label": [objectProperty[pred]],
                     "src": sub_id,
                     "dst": obj_id,
                     "property": {"uri": pred},
