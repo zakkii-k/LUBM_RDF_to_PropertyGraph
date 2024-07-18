@@ -83,7 +83,7 @@ def extract_class_info(owl_graph):
         pred = replace_https_with_http(pred)
         obj = replace_https_with_http(obj)
 
-        # ブランクノードを無視
+        # ignore blank nodes
         if isinstance(subj, rdflib.BNode) or isinstance(obj, rdflib.BNode):
             continue
 
