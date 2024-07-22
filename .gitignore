@@ -1,0 +1,9 @@
+*
+!sample_data/
+!univ_bench.owl
+!rdf2pg.py
+!readme.md
+!lubm_generate.sh
+!owl2nt.sh
+!run.sh
+!.gitignore
